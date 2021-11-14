@@ -1,0 +1,13 @@
+ChargeControl,PlanNum,OverridesChargeControl,OverridesPlanNum,ThisPlan,OverridesPlan,Item Type,Path
+Structure1,1,StructOS_5,5,Contribution Plan No 1 - Banora Point West/Tweed Heads South Open Space Contribution,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+CasDed1,1,CasualOS_5,5,Contribution Plan No 1 - Banora Point West/Tweed Heads South Open Space Contribution,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+CasNoDed1,1,CasualOS_5,5,Contribution Plan No 1 - Banora Point West/Tweed Heads South Open Space Contribution,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+StructOS_7,7,StructOS_5,5,Contribution Plan No 7 - West Kingscliff,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+CommFac10,10,ComFac15,15,Contribution Plan No 10 - Cobaki Lakes,15.0000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+CommFac19,19,ComFac15,15,Contribution Plan No 19 - Casuarina Beach/Kings Forest,15.0000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+OpenSpac19,19,StructOS_5,5,Contribution Plan No 19 - Casuarina Beach/Kings Forest,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+StrucOS21,21,StructOS_5,5,Contribution Plan No 21 - Terranora Village Estate - Open Space and Community Facilities,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+CommFac21,21,ComFac15,15,Contribution Plan No 21 - Terranora Village Estate - Open Space and Community Facilities,15.0000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+OpenSpac25,25,StructOS_5,5,Contribution Plan No 25 - SALT Open Space and Associated Car Parking,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+OpenSpac27,27,StructOS_5,5,Section 94 Plan No 27 - Tweed Heads Master Plan - Local Open Space/Streetscaping,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides
+StrucOS_28,28,StructOS_5,5,Contribution Plan No 28 - Seaside City,5.00000000000000,Item,prac/infrastructure/Lists/Calculator Overrides

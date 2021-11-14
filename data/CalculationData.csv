@@ -1,0 +1,80 @@
+PlanNumber,Column1,prefix,charge_type,theme_desc,pre-indexation unit_charge_amt per lot,unit_charge_amt,charge_comment,Autotext,Condition Comment,comment,checkbox,LookupLevyRate,Item Type,Path
+99,Water,RECALC S64 Water Murbah Tumb,WaterDSP2,DSP2MurTum,0,13926,Per ET,water6,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water,RECALC S64 Water North West,WaterDSP3,DSP3NthWst,0,13926,Per ET,water7,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water,RECALC S64 Water North East,WaterDSP4,DSP4NthEst,0,13926,Per ET,water8,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water,RECALC S64 Water Central East,WaterDSP5,DSP5CenEst,0,13926,Per ET,water9,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water,RECALC S64 Water South East,WaterDSP6,DSP6SthEst,0,13926,Per ET,water10,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water,RECALC S64 Water Uki,WaterDSP7,DSP7Uki,0,13926,Per ET,water11,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water,RECALC S64 Water Tyalgum,WaterDSP8,DSP8Tyalgm,0,13926,Per ET,water12,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water Addn,RECALC S64 Water Additional Levy,WaterMaher,MahersLn,0,990,Per ET,water2,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water Addn,RECALC S64 Water Additional Levy,WaterPotIn,PVBBInner,0,2492,Per ET,water3,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water Addn,RECALC S64 Water Additional Levy,WaterPvOut,PVBBOuter,0,1960,Per ET,water4,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,Water Addn,RECALC S64 or Capital Contribution Water Additional Levy,WaterKings,SthKingscl,0,358,Per ET,water5,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+99,WaterCC,Water Capital Contribution Seaside City,WaterCCSSC,CCSeaSideC,0,11091,Per ET,water13,ET,,chkWater,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Banora Pt,SewerBnora,BnoraPtSTP,0,6690,Per ET,sewer3,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Tweed Hds,SewerTwdHd,TwdHdsSTP,0,6690,Per ET,sewer4,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Kingscliff,SewerKclif,KcliffSTP,0,6690,Per ET,sewer5,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Hastings Pt,SewerHasPt,HastPtSTP,0,6690,Per ET,sewer6,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Murbah,SewerMurbh,MurbahSTP,0,6690,Per ET,sewer7,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Tumbulgum,SewerTumbl,TumblgmSTP,0,6690,Per ET,sewer8,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Tyalgum,SewerTyalg,TyalgumSTP,0,6690,Per ET,sewer9,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Uki,SewerUki,UkiSTP,0,6690,Per ET,sewer10,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer,RECALC S64 Sewer Bbar Mooball,SewerBbarM,BbarMooSTP,0,6690,Per ET,sewer11,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer addn,RECALC S64 Sewer Additional Levy,SewerTnora,Terranora,0,808,Per ET,sewer2,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,Sewer addn,S64 Sewer Additional Levy,SewerParap,Parapet,0,0,Per ET,sewer12,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+98,SewerCC,Sewer Capital Contribution Seaside City,SewerCCSSC,CCSeaSideC,0,7173,Per ET,sewer13,ET,,chkSewer,,Item,prac/infrastructure/Lists/Calculation Data
+1,CP1,CP01 Banora Point,CasNoDed1,OpenSpace,2184,2840,Per ET,dcp31,ET, = /1.05,chk1,,Item,prac/infrastructure/Lists/Calculation Data
+1,CP1,CP01 Banora Point,CasDed1,OpenSpace,537,698,Per ET,dcp32,ET, = /1.05,chk1,2020-1-Casual open space,Item,prac/infrastructure/Lists/Calculation Data
+1,CP1,CP01 Banora Point,Structure1,OpenSpace,2504,3510,Per ET,dcp33,ET, = /1.05,chk1,,Item,prac/infrastructure/Lists/Calculation Data
+2,CP2,CP02 Banora Pt Drain,Drainage2,S942Drain,841.4,17459,Per hectare,dcp34,HA, = /1.05,chk1,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Tweed Heads),Sector1_4,Sector1,815,993,Trip ends incl admin,trcpres1,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Tweed South),Sector2_4,Sector2,1318,1606,Trip ends incl admin,trcpres2,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Cobaki),Sector3_4,Sector3,1377,1678,Trip ends incl admin,trcpres3,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Bilambil Hts),Sector4_4,Sector4,2836,3456,Trip ends incl admin,trcpres4,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Terranora),Sector5_4,Sector5,1988,2423,Trip ends incl admin,trcpres5,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (LCA Area E),LCA-1,LCA1-Area E,0,0,Trip ends incl admin,trcplca1,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Kingscliff),Sector6_4,Sector6,1137,1384,Trip ends incl admin,trcpres6,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Duranbah/Cab),Sector7_4,Sector7,1145,1395,Trip ends incl admin,trcpres7,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (LCA Kings For),LCA-2,LCA2-KF,0,0,Trip ends incl admin,trcplca2,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (LCA Casuarina),LCA-4,LCA4-Casuar,168,205,Trip ends incl admin,trcplca4,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Pottsville),Sector8_4,Sector8,1284,1565,Trip ends incl admin,trcpres8,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (LCA Koala Beach/Seabreeze),LCA-3,LCA3-KB/SB,68,83,Trip ends incl admin,trcplca3,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Murwillumbah),Sector9_4,Sector9,1317,1605,Trip ends incl admin,trcpres9,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Rural-Inner East),Sector10_4,Sector10,1807,2202,Trip ends incl admin,trcpres10,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Burringbar),Sector11_4,Sector11,1252,1526,Trip ends incl admin,trcpres11,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Rural-Inner North),Sector12a_4,Sector12a,2928,3568,Trip ends incl admin,trcpres12,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Rural-Inner West),Sector12b_4,Sector12b,2239,2729,Trip ends incl admin,trcpres17,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 (Rural Outer),Sector13_4,Sector13,2534,3021,Trip ends incl admin,trcpres13,Trips, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+4,CP4 (TRCP),CP04 HEAVY HAULAGE,HeavyHaulD,All Sectors,calculate ,1,$$ amount,trcpheavy,, = /1.05,chk4,,Item,prac/infrastructure/Lists/Calculation Data
+5,CP5,CP05 (Local OS),CasualOS_5,LocalOpenS,502,673,Per ET,casopen1,ET, = /1.05,chk5,,Item,prac/infrastructure/Lists/Calculation Data
+5,CP5,CP05 (Local OS),StructOS_5,LocalOpenS,575,771,Per ET,structured1,ET, = /1.05,chk5,,Item,prac/infrastructure/Lists/Calculation Data
+6,CP6,CP06 Street Trees,SubOnly6,Shirewide,297,297,Per Lot,streettrees,Lot/s,total amount,chk6,,Item,prac/infrastructure/Lists/Calculation Data
+7,CP7,CP07 West Kcliff,Drainage,WK'cliff,5664.1,92158,Per HA,wking4,HA, = /1.05,chk7,,Item,prac/infrastructure/Lists/Calculation Data
+7,CP7,CP07 West Kcliff,StructOS_7,Wkcliff,1849,4393,Per ET,wking1,ET, = /1.05,chk7,,Item,prac/infrastructure/Lists/Calculation Data
+10,CP10,CP10 Cobaki,CommFac10,S94_10,1173,1410,Per ET,cobaki,ET, = /1.05,chk10,,Item,prac/infrastructure/Lists/Calculation Data
+11,CP11,CP11 Libraries,ResDevt11,Shirewide,792,1007,Per ET,libraries,ET, = /1.05,chk11,,Item,prac/infrastructure/Lists/Calculation Data
+12,CP12,CP12 Bus Shelters,Over10ET,Shirewide,60,76,Per ET,busshelters,ET, = /1.05,chk12,,Item,prac/infrastructure/Lists/Calculation Data
+13,CP13,CP13 Cemeteries,ResDevt13,Shirewide,101,143,Per ET,cemeteries,ET, = /1.05,chk13,,Item,prac/infrastructure/Lists/Calculation Data
+14,CP14,CP14 Mebbin,MebbinSprg,MebbinSpr,2711,2711,Per ET,mebbin,ET, = /1.05,chk14,,Item,prac/infrastructure/Lists/Calculation Data
+15,CP15,CP15 Comm Facilities,ComFac15,RemShire,1305.6,1661,Per ET,commfac1,ET, = /1.05,chk15,,Item,prac/infrastructure/Lists/Calculation Data
+16,CP16,CP16 Lifesaving,Shirewid16,Shirewide,113,113,Per ET,lifesaving3,ET,total amount,chk16,,Item,prac/infrastructure/Lists/Calculation Data
+18,CP18,CP18 Council Admin,Shirewide,Shirewide,"1,759.90",2252.11,Per ET,admin,ET, = /1.05,chk18,,Item,prac/infrastructure/Lists/Calculation Data
+19,CP19,CP19 Casuarina Beach,CommFac19,KgsBch/For,2153,2685,Per ET,kingsbeach3,ET, = /1.05,chk19,,Item,prac/infrastructure/Lists/Calculation Data
+19,CP19,CP19 Casuarina Beach,OpenSpac19,KgsBch/For,717,1832,Per ET,kingsbeach1,ET, = /1.05,chk19,,Item,prac/infrastructure/Lists/Calculation Data
+20,CP20,CP20 Seabreeze,CasualOS20,Seabreeze,calculate ,1,$$ amount (calculate),seabreeze1,, = /1.05,chk20,,Item,prac/infrastructure/Lists/Calculation Data
+20,CP20,CP20 Seabreeze,StructOS20,Seabreeze,calculate ,1,$$ amount (calculate),seabreeze2,, = /1.05,chk20,,Item,prac/infrastructure/Lists/Calculation Data
+21,CP21,CP21 Terranora,CommFac21,TnoraVge,261,535,Per ET,terranora1,ET, = /1.05,chk21,,Item,prac/infrastructure/Lists/Calculation Data
+21,CP21,CP21 Terranora,StructOS21,TnoraVge,767,1572,Per ET,terranora2,ET, = /1.05,chk21,,Item,prac/infrastructure/Lists/Calculation Data
+22,CP22,CP22 Cycleways,Shirewid22,Shirewide,447,568,Per ET,cycleways,ET, = /1.05,chk22,,Item,prac/infrastructure/Lists/Calculation Data
+23,CP23,CP23 Carparking,Bog/Cab23,Bogan/Caba,0,34983,Per space,carpark4,space/s, = /1.05,chk23,,Item,prac/infrastructure/Lists/Calculation Data
+23,CP23,CP23 Carparking,FingalHd23,FingalHead,0,3666,Per space,carpark6,space/s, = /1.05,chk23,,Item,prac/infrastructure/Lists/Calculation Data
+23,CP23,CP23 Carparking,Kcliff23,Kingscliff,0,34983,Per space,carpark3,space/s, = /1.05,chk23,,Item,prac/infrastructure/Lists/Calculation Data
+23,CP23,CP23 Carparking,Murbah23,Murbah,0,20121,Per space,carpark2,space/s, = /1.05,chk23,,Item,prac/infrastructure/Lists/Calculation Data
+23,CP23,CP23 Carparking,Pville23,Pottsville,0,33132,Per space,carpark5,space/s, = /1.05,chk23,,Item,prac/infrastructure/Lists/Calculation Data
+23,CP23,CP23 Carparking,TwdHeads23,TweedHeads,0,35268,Per space,carpark1,space/s, = /1.05,chk23,,Item,prac/infrastructure/Lists/Calculation Data
+25,CP25,CP25 SALT Open Space and Carparking,OpenSpac25,OpenSpace,1350,3406,Per ET,kingsbch1,ET, = /1.05,chk25,,Item,prac/infrastructure/Lists/Calculation Data
+26,CP26,CP26 (Regional OS),CasOS_26,Shirewide,1031,1311,Per ET,casopen2,ET, = /1.05,chk26,,Item,prac/infrastructure/Lists/Calculation Data
+26,CP26,CP26 (Regional OS),StrucOS_26,Shirewide,3619,4601,Per ET,structured2,ET, = /1.05,chk26,,Item,prac/infrastructure/Lists/Calculation Data
+27,CP27,CP27 TH Master Plan,OpenSpac27,OpenSpace,1047,1047,Per MDU,thmaster1,MDU, = /1.05,chk27,,Item,prac/infrastructure/Lists/Calculation Data
+28,CP28,CP28 Seaside City,Seaside28,Seaside,44641,58429,Per ET,seaside1,ET, = /1.05,chk28,,Item,prac/infrastructure/Lists/Calculation Data
+28,CP28,CP28 Seaside City,StrucOS_28,Seaside,3585,4692,Per ET,seaside2,ET, = /1.05,chk28,,Item,prac/infrastructure/Lists/Calculation Data

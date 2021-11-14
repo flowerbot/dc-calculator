@@ -1,0 +1,665 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+  }
+
+    svg {
+        pointer-events: none;
+    }
+
+    .infoDiv {
+        cursor: pointer;
+        display: inline-block;
+    }
+
+/*  from https://autoprefixer.github.io/ */
+/* basically all the extra stuff was to try to get it to work for Edge, it didn't, so I removed it) */
+.swal2-radio {
+  /*  display: -ms-grid !important; */
+    display: grid !important;
+    text-align: left !important;
+ /*   -ms-grid-column: 1;
+        grid-column-start: 1;
+    -ms-grid-column-span: 0;
+    grid-column-end: 1; */
+  /*  -ms-grid-columns: 1;
+    grid-template-columns: 1;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto; */
+} /*.swal2-radio > *:nth-child(1) {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+} */
+
+
+    #btnImport, #btnHints, #btnGuide, #btnComGuide {
+
+        border-radius: 45%;
+        outline:none;
+      box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+      border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+      border:solid 1.5px rgb(160, 149, 126);
+       transition:all .5s ease; 
+      /* background: transparent; */
+        /* background-color:palegreen; 
+        opacity: 0.5; */
+      /*  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s; */
+
+    }
+
+    #versionNum, #datadate {
+        font-style:italic;
+    }
+
+    .stageLabel {
+        display: flex;
+        font-size: large;
+        font-weight: 800;
+        width: 90% !important;
+        padding-right: 10px;
+      /*  margin-left: 20px; */
+     
+    }
+
+    .container {
+        display: inline-block;
+    }
+    .labelDiv {
+        width: 100%; 
+        display: block;
+    }
+
+    .StepLabel {
+        display: block;
+    }
+
+
+
+    #Step1Selections {
+
+        float: left;
+        flex: 0 0 120px;
+
+    }
+
+    .DevTypeSelections {
+       /* flex: 1; */
+       border:green;
+       border-width: 1px;
+       border-style: solid;
+       width: auto;
+       display: inline-block;
+    }
+
+    .dateAndClone {
+        display: inline-block;
+    }
+
+.actionRow {
+    padding: 4px;
+    text-align: right;
+}
+
+.actionRow:nth-child(odd) {
+    background-color:whitesmoke;
+} 
+
+/*
+.actionRow.hidden:nth-child(even) + .actionRow:nth-child(odd) + .actionRow:nth-of-type(even),
+.actionRow.hidden:nth-child(even) + .actionRow.hidden:nth-child(odd) + .actionRow:nth-of-type(even)
+ {
+    background-color:whitesmoke;
+}
+*/
+.haRow {
+
+    -khtml-opacity: .50;
+        -moz-opacity: .50;
+        -ms-filter: ”alpha(opacity=50)”;
+        filter: alpha(opacity=50);
+        filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.5);
+        opacity: .50;
+
+}
+
+.actionTable {
+
+    float: right;
+    border:skyblue;
+       border-width: 1px;
+       border-style: solid;
+       padding: 4px;
+       
+
+
+}
+.actionTable .tr .td {
+    min-width: 150px;
+    color: gray;
+}
+
+
+
+.actionTable .tr .td:nth-child(1) {
+    text-align: left;
+}
+
+.inlineblock {
+    display: inline-block;
+}
+
+    .DevTypeRow {
+        padding: 4px;
+    }
+    .DevTypeCheckboxLabel {
+        width: 100px;
+        display: inline-block;
+    }
+    .DevTypeInputs  {
+        display: inline-block;
+
+    }
+    .DevTypeInputs label {
+        padding-left: 10px; padding-right: 6px;
+        font-size: 8pt;
+        /*width: 23px; */
+        display: inline-block;
+        text-align: right;
+    }
+
+    .DevTypeInputs label.lblMultiRes {
+        width: 150px;
+        text-align: left;
+        padding-left: 0px;
+    }
+
+    label.discountLabel {
+
+        padding-left: 0px;
+        width: auto;
+
+    }
+
+    .DevTypeInputs input {
+        width: 35px;
+     }
+
+     .DevTypeInputs input.txtCap {
+         width: 50px;
+         text-align: right;
+     }
+
+   /*  .DevTypeInputs input#txtTripsRes, 
+     .DevTypeInputs input#txtTripsSub, 
+     .DevTypeInputs input#txtTripsCom,
+     .DevTypeInputs input#txtTripsCom */
+     .DevTypeInputs input.trips {
+         width: 100px;
+         text-align: right;
+     }  
+
+     .DevTypeInputs input.discountCheckBox {
+         width: auto;
+         margin-left: 10px;
+     }
+
+     .DevTypeInputs input.txtETsCom {
+
+         width: 80px;
+         color: #ccc;
+         border: 1px solid #ccc;
+         background-color:whitesmoke;
+
+ 
+      
+     }
+
+     ::placeholder {
+             color: #ccc;
+         }
+
+     .comLabel {
+         font-style:italic;
+         color: silver;
+     }
+
+     .discountDetails {
+         display: inline-block;
+
+     }
+     .DevTypeRow:nth-child(odd) {
+         background: #e0e0e0;
+     }
+
+     #chkCapDiv {
+         border-top: 1px solid DarkGray;
+     }
+
+     .planContainer .planRow:not(.hidden):nth-child(odd) {
+         background: #fff8eb;
+     }
+
+
+/*
+.planRow,
+     .planRow.hidden:nth-child(even) + .planRow:nth-child(odd) + .planRow:nth-of-type(even),
+.planRow.hidden:nth-child(even) + .planRow.hidden:nth-child(odd) + .planRow:nth-of-type(even)
+ {
+    background-color: white;
+}
+
+.planRow:nth-child(even),
+.planRow.hidden:nth-child(even) ~ .planRow:nth-child(odd),
+.planRow.hidden:nth-child(even) + .planRow.hidden:nth-child(odd) ~ .planRow:nth-of-type(even)
+ {
+    background-color:#fff8eb;
+}
+*/
+     .DevTypeInputs input.otherCreditsDesc {
+         width: 150px;
+     }
+
+     .ms-webpartPage-root {
+    border-spacing: 0px;
+}
+    .planContainer, .rateContainer {
+        display: table;
+    }
+
+
+
+    .table {
+        display: table;
+    }
+
+    .highlight {
+        background-color: #DFFF00;
+    }
+
+    .tr {
+        display: table-row;
+    }
+
+    .td {
+        display: table-cell;
+    }
+
+    .inactive > .td  {
+       /* color: silver; */
+        -khtml-opacity: .30;
+        -moz-opacity: .30;
+        -ms-filter: ”alpha(opacity=30)”;
+        filter: alpha(opacity=30);
+        filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.3);
+        opacity: .30;
+    }
+
+    .hidden {
+        display: none;
+    }
+    
+
+    .rateTitle {
+        width: 200px;
+        border-bottom: 1px dotted silver;
+    }
+
+    .rateAmount, .baseRate {
+         width: 150px;
+         border-bottom: 1px dotted silver;
+    }
+
+    .rateInput  {
+        width: 140px;
+
+    }
+
+    .rateInput input {
+        width: 80px;
+    }
+
+    .rateDiscountedTotal {
+        min-width: 120px; /* a lil wider cos the heading is longer */
+    }
+
+    .rateAppliesTo {
+        width: 200px;
+        border-bottom: 1px dotted silver;
+    }
+
+    .rateCC, .rateAT {
+        border-bottom: 1px dotted silver;
+        padding-left: 5px;
+        width: 100px;
+    }
+
+    .infoImage {
+        width: 16px;
+        fill:royalblue;
+        -khtml-opacity: .30;
+        -moz-opacity: .30;
+        -ms-filter: ”alpha(opacity=30)”;
+        filter: alpha(opacity=30);
+        filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.3);
+        opacity: .30;
+
+
+    }
+
+    .infoImage:hover, .infoDiv:hover .infoImage {
+
+        -khtml-opacity: 1.0;
+        -moz-opacity: 1.0;
+        -ms-filter: ”alpha(opacity=100)”;
+        filter: alpha(opacity=100);
+        filter: progid:DXImageTransform.Microsoft.Alpha(opacity=1.0);
+        opacity: 1.0;
+        cursor:pointer;
+        
+    }
+
+    .stageLabelInfoImg {
+        /* position: absolute; */
+        margin-left: -25px;
+        margin-top: -30px;
+
+    }
+   
+   /* .infoImage > fill {
+        fill: orange;
+    } */
+
+    .rateTotal, .rateDiscount, .rateDiscountedTotal, .rateCappedTotal, .resTotal, .resInput, .rateCapAdjust, .wdNumber {
+        text-align: right;
+        min-width: 100px;
+        border-bottom: 1px dotted silver;
+        padding-right: 5px;
+    }
+
+
+
+    .rateDiscountDesc {
+        font-size:xx-small;
+        border-bottom: 1px dotted silver;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: right;
+        width: 45px;
+    }
+
+    .totalFooter .rowHeading .rateTitle, 
+    .totalFooter .rowHeading .rateAmount,
+    .totalFooter .rowHeading .resInput
+     {
+        border-bottom: none;
+    }
+
+    .stageGrandTotal, .stageResidentialTotal,.stageCappedTotal, .stageCapAdjust,
+     .stageTotalDiscount, .stageDiscountedTotal {
+        font-weight:700;
+        font-size: larger;
+        border-bottom: 5px double silver;
+    }
+    .rateAppliesTo {
+
+        font-size:xx-small;
+      /*  border-bottom: 1px dotted silver; */
+        padding-left: 5px;
+        padding-right: 5px;
+     /*   text-align: right; */
+        width: 50px;
+    }
+
+    .commercial {
+
+        color:mediumslateblue;
+
+    }
+
+    .planContainer > .tr > .td  {
+
+        border-top: 1px solid gray;
+
+    }
+
+    .planTitle {
+        width: 260px;
+    }
+
+    .planPrefix{
+        width: 50px;
+    }
+
+    .tr.localPlan > .td {
+        color: magenta;
+    }
+
+    .sweetFooter {
+        font-style:italic;
+        font-size: 11px;
+    }
+
+    .calcLogo {
+        display: none;
+    }
+
+    #instructionsContainer {
+        position:absolute;
+        width: 40%;
+        left: 300px;
+       /* left: 500px;
+       width: 50%; */
+      /* width: 100%; */
+       
+    }
+    .instructions {
+        text-align: right; 
+     /*   width: auto;
+        float:right; */
+        float: right;
+ 
+    }
+
+    .instructions .infoImage {
+        width: 60px;
+    }
+
+
+    #floatableNotes {
+        position: absolute; 
+        width: 400px;
+        cursor: pointer;
+        right: 0;
+
+
+        z-index: 9;
+        background-color:#FFFF99;
+        border: 1px solid #d3d3d3;
+        text-align: center;
+
+        -webkit-transition: width 2s;
+
+        /* this stopped the note from being vertically draggable */
+    /* transition: top 0.5s, visibility 0s linear 0s, opacity 300ms; */
+    }
+
+    #floatableNotes ol li {
+        text-align: left;
+        font-family: 'Kalam', sans-serif;
+        font-size:medium;
+    }
+
+    #floatableTop {
+
+        border-bottom: black;
+        border-width: 1px;
+       border-style: solid;
+       padding: 5px;
+       background-color:palegoldenrod;
+    }
+
+    #closeFloatable {
+        position: absolute;
+        right: 0;
+        padding-right: 8px;
+        top: 3;
+        color: red;
+        font-weight: 800;
+        cursor: pointer;
+
+    }
+
+    #preparedByDiv {
+        float: right;
+    }
+
+    .printOnly {
+        display: none;
+    }
+
+
+    .swal2-content {
+        font-size: small;
+    }
+
+    .swal2-title {
+        font-size:medium;
+    }
+
+    .swal2-styled {
+        font-size: medium !important;
+        padding: 3px;
+    }
+
+    .swal2-container {
+      z-index: 1000000;
+    }
+
+    #wordOutput {
+        max-width: 600px;
+    }
+
+    .highlightGuideText {
+        color: red;
+    }
+
+
+    /* override styles when printing */
+    @media print {
+    .inactive, .dontPrint, .infoImage {
+        display: none;
+    }
+
+    .printOnly {
+        display: inline-block;
+    }
+
+   
+
+
+    .localPlan {
+        color: black;
+    }
+
+    .planTitle {
+        width: 180px;
+        font-size: smaller;
+    } 
+
+    .actionTable {
+        clear: both;
+        display: block;
+    }
+
+    .actionTable .tr .td {
+        font-size:x-small;
+       
+    }
+
+    .calcLogo {
+        display: inline;
+    }
+    .planContainer {
+        display: block;
+        width: 100%;
+    }
+    h2 {
+        display: inline;
+    }
+
+    .stageLabel {
+        display: inline;
+    }
+
+    .container {
+       /* display: inline-block; */
+        float: left;
+    }
+
+    .inlineblock {
+        display: block;
+        width: 100%;
+    }
+    .devTypeSelections, .dateAndClone {
+        display: inline-block; 
+       /* float: right; */
+       /* width: 100%; */
+    }
+
+    #s4-ribbonrow, 
+    #suiteBar,
+    .ms-breadcrumb-top,
+    .ms-cui-topBar2, 
+    .s4-notdlg, 
+    .s4-pr s4-ribbonrowhidetitle, 
+    .s4-notdlg noindex, 
+    #ms-cui-ribbonTopBars, 
+ /*   #DeltaSiteLogo,
+    #SearchBox, */
+    #s4-titlerow,  
+   #DeltaTopNavigation,
+    #s4-pr s4-notdlg s4-titlerowhidetitle, 
+    #s4-leftpanel-content {
+        display:none !important;
+        }
+
+        .calcLogo {
+            display:inline-block;
+
+        }
+
+        .calcLogo img {
+            height: 50px;
+
+        }
+
+        .calcLogo span {
+            font-size:large;
+            color: #0072C6;
+        }
+
+      /*  .stageDivider {
+            page-break-after: always;
+        } */
+
+        .wholestagecontainer {
+            width: 100%;
+        }
+
+        .wholestage {
+            page-break-inside: avoid;
+        }
+
+
+}
+
+    .introjs-hintReference > .introjs-tooltip {
+        min-width: 300px;
+        max-width: 450px;
+    }
+   /* .introjs-hint-dot, .introjs-hint.pulse {
+        left: -40px;
+    } */
+

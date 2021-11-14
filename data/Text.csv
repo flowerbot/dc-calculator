@@ -1,0 +1,173 @@
+Title,text,top,bottom,Modified,Raw,PlanLookup,PlanLookup:Title,Item Type,Path
+feesheettable,"
+​
+       SECTION 7.11 AND OTHER DEVELOPER CONTRIBUTIONS SHEET
+       THIS FORM           MUST ACCOMPANY PAYMENT OF CONTRIBUTIONS TO COUNCIL
+                 Development:                                 Development Consent No.                                 Location:                                 Applicant:                                 Owner:                                 Date:                  (recalculated                 30 July 2020)                Paid by:                                 Stage:                  Please note that the fees in this re-calculated fee sheet are current at the date of recalculation.  Fees may change due to amendments to the contribution plans.  Please contact Council PRIOR to payment to check if your fee sheet is still current.
+        
+                        Contribution Payable                S7.11 Contribution Plan Number/Sector                Area CP5 Only                Units/lots or rate/ha                Rate valid until __/__/__                Amount                Rate at Time of Payment after __/__/__
+                   Amount at Time of Payment
+                   $                Receipt Number                Charge Control                Bank Account
+ 
+ 
+ 
+ 
+ 
+       Please forward receipt to                Name:                                 Address:                                                                                     
+        
+       METHODS OF PAYMENT
+ 
+                   IN PERSON
+You can pay your Section 7.11 Developer Contributions in person at the Tweed Shire Council's Murwillumbah Office.  Payments can be made by cash, cheque, money order (or EFTPOS (debit card or credit card).
+                    
+We accept Mastercard or Visa.  Please note that a surcharge will apply to all payments made via credit card.
+                    
+                   Receipting Hours Monday - Friday, 8.30am - 4.00pm
+                   BY MAIL
+Please make all cheques payable to Tweed Shire Council.  All cheques must be crossed 'Not Negotiable'.  Post dated cheques will not be accepted.
+ 
+Mail payments to: PO Box 816, Murwillumbah                     NSW                     2484
+ 
+ 
+ 
+ 
+
+","             Contribution Payable             S7.11 Contribution Plan Number/Sector             Area CP5 Only             Units/lots or rate/ha             Rate valid until __/__/__             Amount             Rate at Time of Payment after __/__/__
+                Amount at Time of Payment
+                $             Receipt Number             Charge Control             Bank Account
+","
+​NB: the body of the feesheet must be generated from CI data as usual, the calculator code will use this entry to generate the fee tableonly.  It is the RAW json values below which are used to generate the table, one value for each column, the formatted text above is retained for information only.  Raw json names prefixed 'empty-' do not have corresponding data to insert.  Other json names exactly match the data name being used in the calculator.
+",7/30/2020 16:30,"{
+""rateTitle"":""Contribution Payable"",
+""planNum"":""S7.11 Contribution Plan Number/Sector"",
+""empty-cp5Only"":""Area CP5 Only"",
+""rateInput"":""Units/lots or rate/ha"",
+""rateAmount"":""Rate valid until _/_/_ "",
+""rateCappedTotal"":""Amount"",
+""empty-rateAmountAtTimeOfPayment"":""Rate at Time of Payment after _/_/_"",
+""empty-amountAtTimeOfPayment"":""Amount at time of Payment"",
+""empty-ReceiptNo"":""Receipt Number"",
+""rateCC"":""Charge Control"",
+""empty-Bank"":""Bank Account""
+}",,,Item,prac/infrastructure/Lists/Condition Text
+standard,"
+
+«
+xxcontributiondescxx:
+
+xxxx lots @$xxxx perx 
+$xxxx
+ ($yyyy base rate + $yyyy indexation)
+plan namesector","
+​«
+​xxcontributiondescxx:​
+xxxx lots @ $xxxx per x
+​($yyyy base rate + $yyyy indexation)
+​$xxxx
+​
+plan namesector​",,7/30/2020 11:32,"nb ""top"" is currently being used by the code",,,Item,prac/infrastructure/Lists/Condition Text
+MINISTERSCAP,"
+​*     Includes adjustments which effect compliance with the Directions from the Minister for Planning in relation to the maximum contribution payable per dwelling dated 13 January 2009 and 19 July 2009.
+",,,7/30/2020 11:18,,,,Item,prac/infrastructure/Lists/Condition Text
+S94charges,"
+#      Section 7.11 Contributions
+
+Payment of the following contributions pursuant to Section 7.11 of the Act and the relevant Contribution Plan.
+Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's ""Contribution Sheet"" signed by an authorised officer of Council.
+Prior to the occupation of the building or issue of any Interim or Final Occupation Certificate (whichever comes first), all Section 7.11 Contributions must have been paid in full and the Certifying Authority must have sighted Council's ""Contribution Sheet"" signed by an authorised officer of Council.
+A Subdivision Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's ""Contribution Sheet"" signed by an authorised officer of Council.
+XXXMUSTBEPAIDS94XXX
+          delete the paragraph above which does not apply
+          A CURRENT COPY OF THE CONTRIBUTION FEE SHEET ATTACHED TO THIS CONSENT MUST BE PROVIDED AT THE TIME OF PAYMENT.
+
+These charges include indexation provided for in the Section 7.11 Contribution Plan and will remain fixed for a period of 12 months from the date of this consent and thereafter in accordance with the rates applicable in the current version/edition of the relevant Section 7.11 Contribution Plan current at the time of the payment.
+A copy of the Section 7.11 contribution plans may be inspected at the Civic and Cultural Centres, Tumbulgum Road, Murwillumbah and Brett Street, Tweed Heads.
+S94CHARGES
+
+MINISTERSCAP
+[PCC0215/POC0395/PSC0175]
+
+
+","
+#       Section 7.11 Contributions
+Payment of the following contributions pursuant to Section 7.11 of the Act and the relevant Contribution Plan.
+
+Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's ""Contribution Sheet"" signed by an authorised officer of Council.
+Prior to the occupation of the building or issue of any Interim or Final Occupation Certificate (whichever comes first), all Section 7.11 Contributions must have been paid in full and the Certifying Authority must have sighted Council's ""Contribution Sheet"" signed by an authorised officer of Council.
+A Subdivision Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's ""Contribution Sheet"" signed by an authorised officer of Council.
+
+XXXMUSTBEPAIDS94XXX
+          delete the paragraph above which does not apply
+          A CURRENT COPY OF THE CONTRIBUTION FEE SHEET ATTACHED TO THIS CONSENT MUST BE PROVIDED AT THE TIME OF PAYMENT.
+
+These charges include indexation provided for in the Section 7.11 Contribution Plan and will remain fixed for a period of 12 months from the date of this consent and thereafter in accordance with the rates applicable in the current version/edition of the relevant Section 7.11 Contribution Plan current at the time of the payment.
+A copy of the Section 7.11 contribution plans may be inspected at the Civic and Cultural Centres, Tumbulgum Road, Murwillumbah and Brett Street, Tweed Heads.
+","
+MINISTERSCAP
+
+​[PCC0215/POC0395/PSC0175]
+",7/30/2020 10:58,,,,Item,prac/infrastructure/Lists/Condition Text
+descriptors,"
+​(this text not used, see Raw contents) - an entry for every autotext, showing the unique descriptor value
+",,,7/30/2020 10:53,"{ 
+    ""seaside2"": ""Seaside City Structured Open Space"",
+""seabreeze2"": ""Seabreeze – Structured Open Space"",
+""seabreeze1"": ""Seabreeze – Casual Open Space"",
+""dcp34"": ""South Tweed Heads Master Drainage (DCP Section B3 area)"",
+""dcp33"": ""Banora Point West/Tweed Heads South (DCP Section B3)<br />Open Space Active (Structured)"",
+""dcp32"": ""Banora Point West/Tweed Heads South (DCP Section B3)<br />Open Space Passive (Casual)"",
+""dcp31"": ""Banora Point West/Tweed Heads South (DCP Section B3)<br />Open Space Passive (Casual)"", 
+""cycleways"": ""Cycleways"",
+""wkingstructured"": ""West Kingscliff - Structured Open Space"", 
+""wkingcycleways"": ""West Kingscliff – Cycleways"",
+""wkingcommfac"": ""West Kingscliff - Community Facilities"",
+""wking4"": ""West Kingscliff – Drainage"",
+""wking1"": ""West Kingscliff – Open Space"",
+""commfac2"": ""Community Facilities (Tweed Coast - South)"",
+""commfac1"": ""Community Facilities (Tweed Coast - North)"",
+""commfac"": ""Community Facilities"",
+""Cobaki"": ""Cobaki Lakes - Community Facilities & Open Space"",
+""Mebbin"": ""Mebbin"",
+""Cemeteries"": ""Eviron Cemetery"",
+""trcpres1"": ""Tweed Road Contribution Plan"",
+""lifesaving3"": ""Emergency Facilities (Surf Lifesaving)"", 
+""libraries"": ""Shirewide Library Facilities"",
+""casopen2"": ""Regional Open Space (Casual)"", 
+""trcpheavy"": ""Tweed Road Contribution Plan Heavy Haulage"",
+""casopen1"": ""Open Space (Casual)"",
+""carpark"": ""Shirewide Car Parking"",
+""cemeteries"":""Cemeteries"",
+""thmaster1"": ""Tweed Heads Master Plan"",
+""terranora2"": ""Terranora Village – Open Space"",
+""terranora1"": ""Terranora Village – Community Facilities"",
+""kingsbeach3"": ""Casuarina Beach/Kings Forest Community Facilities"",
+""kingsbeach2"": ""Casuarina Beach/Kings Forest Cycleways"",
+""busshelters"": ""Bus Shelters"",
+""kingsbeach1"": ""Casuarina Beach/Kings Forest Open Space"",
+""structured2"": ""Regional Open Space (Structured)"",
+""wkingcasual"": ""West Kingscliff - Casual Open Space"",
+""structured1"": ""Open Space (Structured)"",
+""kingsbch1"": ""SALT Open Space and Associated Car Parking"",
+""admin"": ""Extensions to Council Administration Offices <br/>& Technical Support Facilities"",
+""streettrees"": ""Street Trees"",
+""Seaside1"": ""Seaside City Cost of Works"" 
+}",,,Item,prac/infrastructure/Lists/Condition Text
+mustbepaid-changeofuse,"
+prior to occupation","
+​An Occupation Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council.
+",,7/30/2020 9:52,,,,Item,prac/infrastructure/Lists/Condition Text
+mustbepaid-tourism,"
+​prior to release of construction certificate
+","
+​Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council.
+",,7/30/2020 9:51,,,,Item,prac/infrastructure/Lists/Condition Text
+mustbepaid-subdivision,"
+​prior to the release of the subdivision certificate
+","
+​Pursuant to Section 109J of the Environmental Planning and Assessment Act, 1979 a Subdivision Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council.
+",,7/30/2020 9:50,,,,Item,prac/infrastructure/Lists/Condition Text
+mustbepaid-30days,"
+​within 30 days of commencement of the erection of a dwelling house, units or commercial development
+","
+​Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council, except in the case of any S94 Plan No 28 contributions, which must be paid within 30 days of commencement of the erection of a dwelling house, units or commercial development.
+",,7/30/2020 9:50,,,,Item,prac/infrastructure/Lists/Condition Text
