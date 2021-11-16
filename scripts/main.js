@@ -126,7 +126,7 @@ function afterLoad() {
 		//csv parse
 		levyfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/Levy Rates.csv"
 		overridesfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/Overrides.csv"
-		planlistfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/planListExported.csv"
+		planlistfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/PlanListExported.csv"
 		calculationdatafile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/CalculationData.csv"
 
 	} else {
