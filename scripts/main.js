@@ -154,7 +154,7 @@ function afterLoad() {
 
 
                         //step 3
-                        Papa.parse("data/text.csv", {
+                     /*   Papa.parse("data/text.csv", {
                         download: true,
                         header: true,
                         skipEmptyLines: true,
@@ -162,7 +162,7 @@ function afterLoad() {
 
                             savedText = parsed.data;
                             console.log("savedText:");
-                            console.log(savedText); 
+                            console.log(savedText); */
 
                             //STEP 4
 
@@ -217,8 +217,8 @@ function afterLoad() {
 
                                 }
                                 
-                            });
-                        }
+                           // });  //csv
+                       // } // csv
                         
                     });
 
