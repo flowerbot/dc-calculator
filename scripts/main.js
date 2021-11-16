@@ -115,7 +115,33 @@ function afterLoad() {
 	//console.log("wikiData:");
 	//console.log(wikiData);
 
-    Papa.parse("data/Levy Rates.csv", {
+
+	var host = window.location.hostname;
+	if(host.indexOf("github")> -1) {
+
+		//fetch
+		textfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/text.json"
+		wikifile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/wiki.json"
+
+		//csv parse
+		levyfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/Levy Rates.csv"
+		overridesfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/Overrides.csv"
+		planlistfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/planListExported.csv"
+		calculationdatafile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/CalculationData.csv"
+
+	} else {
+		textfile = "data/text.json"
+		wikifile = "data/wiki.json"
+		levyfile = "data/Levy Rates.csv"
+		overridesfile = "data/Overrides.csv"
+		planlistfile = "data/planListExported.csv"
+		calculationdatafile = "data/CalculationData.csv"
+
+	}
+
+
+
+    Papa.parse(levyfile, {
             download: true,
             header: true,
             dynamicTyping: true,
@@ -141,7 +167,7 @@ function afterLoad() {
 
 
                 //STEP 2
-                Papa.parse("data/Overrides.csv", {
+                Papa.parse(overridesfile, {
                     download: true,
                     header: true,
                     dynamicTyping: true,
@@ -166,7 +192,7 @@ function afterLoad() {
 
                             //STEP 4
 
-                            Papa.parse("data/planListExported.csv", {
+                            Papa.parse(planlistfile, {
                                 download: true,
                                 header: true,
                                 dynamicTyping: true,
@@ -182,7 +208,7 @@ function afterLoad() {
 
 
                                     // STEP 5
-                                    Papa.parse("data/CalculationData.csv", {
+                                    Papa.parse(calculationdatafile, {
                                         download: true,
                                         header: true,
                                         skipEmptyLines: true,
@@ -238,15 +264,6 @@ function afterLoad() {
 		// this url /_api/web/lists/GetByTitle('Infrastructure%20Charges%20Info')/items?$select=Id,Title0,WikiField
 		// copy the resulting text into the wiki.json file
 
-		var host = window.location.hostname;
-		if(host.indexOf("github")> -1) {
-			textfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/text.json"
-			wikifile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/wiki.json"
-		} else {
-			textfile = "data/text.json"
-			wikifile = "data/wiki.json"
-
-		}
 
 
 		fetch(wikifile)
