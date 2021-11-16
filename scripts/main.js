@@ -237,7 +237,19 @@ function afterLoad() {
 		//use the 'SharePoint Rest Client (pOwered by SharePoint Plex) extension to Chrome
 		// this url /_api/web/lists/GetByTitle('Infrastructure%20Charges%20Info')/items?$select=Id,Title0,WikiField
 		// copy the resulting text into the wiki.json file
-		fetch("data/wiki.json")
+
+		var host = window.location.hostname;
+		if(host.indexOf("github")> -1) {
+			textfile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/text.json"
+			wikifile = "https://raw.githubusercontent.com/flowerbot/dc-calculator/main/data/wiki.json"
+		} else {
+			textfile = "data/text.json"
+			wikifile = "data/wiki.json"
+
+		}
+
+
+		fetch(wikifile)
 		.then(async response => {
 			//JSON.parse(response)
 			//console.log(response)
@@ -252,7 +264,7 @@ function afterLoad() {
 		});
 
 
-		fetch("data/text.json")
+		fetch(textfile)
 		.then(async response => {
 			//JSON.parse(response)
 			//console.log(response)
