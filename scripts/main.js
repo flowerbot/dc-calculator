@@ -2861,7 +2861,7 @@ function startIntro(){
               }, 
               {
                   element: '#mainFooter',
-                  intro: 'Save your calculation.  Leave \'Save to SP\' checked to also save a copy back to SharePoint - this copy can be imported back for future calculations.'
+                  intro: 'Save your calculation. '
               }
             ]
           
