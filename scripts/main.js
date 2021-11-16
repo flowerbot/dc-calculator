@@ -503,6 +503,14 @@ function afterLoad() {
     // this sets up blur for them
     setUpCredits();
 
+	document.addEventListener('focusout',(ev) => {
+		if(ev.target.id == "calcDescription") {
+			var el = ev.target;
+			if(!el.innerHTML.length) {
+				el.innerHTML = "";
+			}
+		}
+	});
 
 	//var wrapper = document.getElementById('everything');
 	document.addEventListener('blur', (ev) => {
@@ -699,7 +707,7 @@ document.oninput = function(ev) {
   								if (thisInput.classList.contains("txtGFACom") || thisInput.classList.contains("txtGFACre")) {
   									thisInput.setAttribute("data-gfa", thisInput.value);
   									thisInput.setAttribute("value", thisInput.value)
-  									var wholeStage = thisInput.parentNode.parentNode.parentNode.parentNode.parentNode;
+  									var wholeStage = thisInput.parentNode.closest(".wholestagecontainer");
   									//  console.log(wholeStage);
   									ETRatio = getCP18CommercialRatio(wholeStage);
   									var etInput = wholeStage.querySelector(".txtETsCom");
@@ -948,7 +956,7 @@ document.oninput = function(ev) {
     			}
     			if (ev.target.classList.contains("chkCap")) {
     				console.log("cap checked/unchecked");
-    				var wholeStage = ev.target.parentNode.parentNode.parentNode.parentNode;
+    				var wholeStage = ev.target.parentNode.closest(".wholestagecontainer");
     				//    console.log(wholeStage.getAttribute("class"));
     				var capCells = wholeStage.querySelectorAll(".cap");
     				//   console.log(capCells);
@@ -962,7 +970,7 @@ document.oninput = function(ev) {
     			}
     			if (ev.target.classList.contains("discountCheckBox")) {
     				// console.log(ev.target.parentNode.parentNode.parentNode.parentNode.parentNode.id);
-    				var wholeStage = ev.target.parentNode.parentNode.parentNode.parentNode.parentNode;
+    				var wholeStage = ev.target.parentNode.closest(".wholestagecontainer");
     				var planContainer = wholeStage.querySelector(".planContainer");
     				//   console.log(planContainer.getAttribute("class"));
     				// console.log(ev.target.name);
@@ -991,7 +999,16 @@ document.oninput = function(ev) {
     				//*********************************
     				// INITIALISE
     				//*********************************
-    				var wholeStage = ev.target.parentNode.parentNode.parentNode;
+    				var wholeStage = ev.target.parentNode.closest(".wholestagecontainer");
+
+
+					var flashingButtons = wholeStage.querySelectorAll(".btnAutoFill");
+
+					for(i=0; i< flashingButtons.length; i++) {
+					flashingButtons[i].classList.remove(".btnAutoFill");
+					}
+
+
     				//if(debug) 
 					console.log("wholeStage in INitialise");
 					console.log(wholeStage);
@@ -1266,13 +1283,20 @@ document.oninput = function(ev) {
     				adjacentPlanContainer.querySelector(".stageCappedTotal").setAttribute("data-stagecappedtotal", "0");
     			}
     			if (ev.target.classList.contains("btnAutofill")) {
+
+
+						
+
     				console.log("button Autofill clicked");
     				var totalTable = ev.target.parentNode.parentNode.parentNode.parentNode;
                     console.log("totalTable:");
 					console.log(totalTable);
     				var valueSpans = totalTable.querySelectorAll(".stageTotal");
     				var commExtra = 0;
-    				var wholeStage = totalTable.parentNode.parentNode.parentNode.parentNode;
+    				var wholeStage = totalTable.parentNode.closest(".wholestagecontainer");
+					wholeStage.querySelector(".btnAutoFill").classList.remove("btnGlow");
+					wholeStage.querySelector(".btnCalculate").classList.add("btnGlow");
+
                     console.log("wholeStage");
 					console.log(wholeStage);
     				var trcpInactive = wholeStage.querySelector("[data-prefix='CP04']").classList.contains("inactive");
@@ -1396,6 +1420,46 @@ document.oninput = function(ev) {
     	} else { //not an input
     		console.log("clicked something else in comp func:");
 			//console.log(ev.target);
+			// should the buttons flash?
+
+			var stageContainer = ev.target.parentNode.closest(".wholestagecontainer");
+
+			try {
+
+				var allinputsTotal = 0.0;
+				var allinputs = stageContainer.getElementsByClassName("stageTotal");
+
+				//console.log(allinputs);
+
+				for(i=0; i< allinputs.length; i++) {
+
+						allinputsTotal = allinputsTotal + parseFloat(allinputs[i].textContent);
+
+				};
+
+					console.log("allinputsTotal:" + allinputsTotal);
+
+				var firstInputVal = parseFloat(stageContainer.querySelector(".rateInput").value);
+				console.log(firstInputVal);
+
+				if(allinputsTotal > 0 && !firstInputVal > 0 && typeof firstInputVal == "number") {
+					stageContainer.querySelector(".btnAutoFill").classList.add("btnGlow");
+				} else {
+					stageContainer.querySelector(".btnAutoFill").classList.remove("btnGlow");
+				}
+			} catch (ex) {
+
+
+				var flashingButtons = document.querySelectorAll(".btnAutoFill");
+
+					for(i=0; i< flashingButtons.length; i++) {
+					flashingButtons[i].classList.remove(".btnAutoFill");
+					}
+
+			}
+
+			
+			
 
 			if (ev.target.classList.contains("infoImage")) {
 			//	if (ev.target.parentNode.classList.contains('infoDiv')) {

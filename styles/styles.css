@@ -1,7 +1,7 @@
 
 * {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 10pt;
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;;
+    font-size: 11pt;
   }
 
     svg {
@@ -15,6 +15,22 @@
 
     #everything {
         padding-left: 20px;
+    }
+
+   .calcDescription {
+       padding-top: 20px;
+       padding-bottom: 10px;
+       font-size: larger;
+       color: gray;
+   }
+
+    #calcDescription[placeholder]:empty:before {
+        content: attr(placeholder);
+        color: #555; 
+    }
+    
+    #calcDescription[placeholder]:empty:focus:before {
+        content: "";
     }
 
 /* MS SP STYLES FOR WIKI */
@@ -63,6 +79,49 @@ td.ms-rteTable-default, th.ms-rteTable-default, .ms-rtetablecells {
   transition: all 0.3s ease 0s; */
 
     }
+
+
+    .btnGlow {
+        background-color: #004A7F;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        border: none;
+        color: #FFFFFF;
+        cursor: pointer;
+        display: inline-block;
+        font-family: Arial;
+        font-size: 20px;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        -webkit-animation: glowing 1500ms infinite;
+        -moz-animation: glowing 1500ms infinite;
+        -o-animation: glowing 1500ms infinite;
+        animation: glowing 1500ms infinite;
+      }
+      @-webkit-keyframes glowing {
+        0% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+        50% { background-color: #FF0000; -webkit-box-shadow: 0 0 40px #FF0000; }
+        100% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+      }
+      
+      @-moz-keyframes glowing {
+        0% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+        50% { background-color: #FF0000; -moz-box-shadow: 0 0 40px #FF0000; }
+        100% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+      }
+      
+      @-o-keyframes glowing {
+        0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+        50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
+        100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+      }
+      
+      @keyframes glowing {
+        0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+        50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
+        100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+      }
 
     #versionNum, #datadate {
         font-style:italic;
