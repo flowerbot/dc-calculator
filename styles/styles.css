@@ -13,6 +13,18 @@
         display: inline-block;
     }
 
+
+/* MS SP STYLES FOR WIKI */
+
+.ms-rteTable-default, .ms-rteTable-default > tbody > tr > td, 
+.ms-rteTable-default > tbody > tr > th, 
+td.ms-rteTable-default, th.ms-rteTable-default, .ms-rtetablecells {
+
+    border: 1px solid #c6c6c6;
+
+}
+
+
 /*  from https://autoprefixer.github.io/ */
 /* basically all the extra stuff was to try to get it to work for Edge, it didn't, so I removed it) */
 .swal2-radio {

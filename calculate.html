@@ -39,6 +39,8 @@ href="http://fonts.googleapis.com/css?family=Kalam">
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 <!-- see https://sweetalert2.github.io/  -->
 
+<!-- script src="scripts/wikiAsVariable.js"></script -->
+
 <script src="scripts/main.js"></script>
 
 <div id="everything">
@@ -46,7 +48,7 @@ href="http://fonts.googleapis.com/css?family=Kalam">
     <i class="fas fa-calculator"></i>
 <h2>Infrastructure Charge Calculation</h2>
 </div>
-<input type='button' id='btnImport' value='import saved calc' class='dontPrint' />
+<input type='button' id='btnImport' value='import saved calc' class='dontPrint hidden' />
 
 <input type='button' id='btnHints' value='Toggle Hints' data-state='showing' class='dontPrint' />
 <input type='button' id='btnGuide' value='Show Guide' data-state='showing' class='dontPrint' />
@@ -91,8 +93,8 @@ href="http://fonts.googleapis.com/css?family=Kalam">
         >Choose one or more options below:</h2>
     <div class="DevTypeRow dontPrint chkResDiv">
         <div class="infoDiv" data-helpid="4">
-        <i class="infoImage fas fa-info-circle"  
-        onload="SVGInject(this)"></i></div>
+            <i class="infoImage fas fa-info-circle"  
+            onload="SVGInject(this)"></i></div>
         <label class="DevTypeCheckboxLabel">
             <input type="checkbox" name="selectDevType"  
             value="Residential" class="selectDevType devTypeSelector" />
@@ -389,7 +391,7 @@ class="dontPrint availablePlansHeading">Available plans:</h2>
 </div>
 <div id="mainFooter"><input type="button" class='dontPrint' id="btnSave" value="Save to Excel" />
     <input type="button" class='dontPrint' id="btnSaveWord" value="Save to Word" /> 
-    <input type="checkbox" class="dontPrint chkSaveSP" id="chkSaveSP" checked="checked" /> <span class="dontPrint">Save to SP ~ </span>
-    <div id="versionNum" class="inlineblock"></div><div id="datadate" class="inlineblock"></div><div id="preparedByDiv">Prepared by: <span id="preparedBy"></span></div></div>
+    <input type="checkbox" class="dontPrint chkSaveSP hidden" id="chkSaveSP" checked="checked" /> <span class="dontPrint hidden">Save to SP ~ </span>
+    <div id="versionNum" class="inlineblock"></div><div id="datadate" class="inlineblock"></div><div id="preparedByDiv" class="hidden">Prepared by: <span id="preparedBy"></span></div></div>
 <div id="wordOutput" class="hidden"></div>
 <script src="scripts/intro.js-2.9.3/intro.min.js"></script>

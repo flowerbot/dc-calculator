@@ -1,0 +1,681 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)",
+                    "etag": "\"8\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(1)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 1,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "S94charges",
+                "text": "<div class=\"ExternalClass7831F30A51704E3CB1B1958142290337\"><p>#&#160;&#160;&#160;&#160;&#160;&#160; \n      <span style=\"text-decoration&#58;underline;\"><strong>Section 7.11 Contributions</strong></span></p>\n      <div class=\"mustbepaid\">\n   <blockquote style=\"margin&#58;0px 0px 0px 40px;border&#58;none;padding&#58;0px;\"><p style=\"text-align&#58;justify;\">Payment of the following contributions pursuant to Section 7.11 of the Act and the relevant Contribution Plan.</p><p class=\"PCC1\" style=\"text-align&#58;justify;\">Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's &quot;Contribution Sheet&quot; signed by an authorised officer of Council.</p><p class=\"POC1\" style=\"text-align&#58;justify;\">Prior to the occupation of the building or issue of any Interim or Final Occupation Certificate (whichever comes first), all Section 7.11 Contributions must have been paid in full and the Certifying Authority must have sighted Council's &quot;Contribution Sheet&quot; signed by an authorised officer of Council.</p><p class=\"PSC1\" style=\"text-align&#58;justify;\">A Subdivision Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's &quot;Contribution Sheet&quot; signed by an authorised officer of Council.</p><p style=\"text-align&#58;justify;\">XXXMUSTBEPAIDS94XXX</p><p style=\"text-align&#58;justify;\">\n         <strong>delete the paragraph above which does not apply</strong></p><p style=\"text-align&#58;justify;\"></p></blockquote></div>\n         <strong>A CURRENT COPY OF THE CONTRIBUTION FEE SHEET ATTACHED TO THIS CONSENT </strong><span style=\"text-decoration&#58;underline;\"><strong>MUST</strong></span><strong> BE PROVIDED AT THE TIME OF PAYMENT.</strong><p></p><p style=\"text-align&#58;justify;\">These charges include indexation provided for in the Section 7.11 Contribution Plan and will remain fixed for a period of 12 months from the date of this consent and thereafter in accordance with the rates applicable in the current version/edition of the relevant Section 7.11 Contribution Plan current at the time of the payment.</p><p style=\"text-align&#58;justify;\">A copy of the Section 7.11 contribution plans may be inspected at the Civic and Cultural Centres, Tumbulgum Road, Murwillumbah and Brett Street, Tweed Heads.</p><p style=\"text-align&#58;justify;\">S94CHARGES<br></p><p style=\"text-align&#58;justify;\">MINISTERSCAP</p><p style=\"text-align&#58;right;\"> \n      <span style=\"font-size&#58;9px;\">[PCC0215/POC0395/PSC0175]</span><br></p><p>\n      <br>\n   </p></div>",
+                "PlanLookupId": null,
+                "top": "<div class=\"ExternalClass27E39338EA304931A1613A759E3F7300\"><p>#&#160;&#160;&#160;&#160;&#160;&#160;&#160;<span style=\"text-decoration-line&#58;underline;\"><strong>Section 7.11 Contributions</strong></span></p><blockquote style=\"margin&#58;0px 0px 0px 40px;border&#58;none;padding&#58;0px;\"><p style=\"text-align&#58;justify;\">Payment of the following contributions pursuant to Section 7.11 of the Act and the relevant Contribution Plan.</p>\n      <div class=\"mustbepaid\">\n      <p class=\"PCC1\" style=\"text-align&#58;justify;\">Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's &quot;Contribution Sheet&quot; signed by an authorised officer of Council.</p><p class=\"POC1\" style=\"text-align&#58;justify;\">Prior to the occupation of the building or issue of any Interim or Final Occupation Certificate (whichever comes first), all Section 7.11 Contributions must have been paid in full and the Certifying Authority must have sighted Council's &quot;Contribution Sheet&quot; signed by an authorised officer of Council.</p><p class=\"PSC1\" style=\"text-align&#58;justify;\">A Subdivision Certificate shall NOT be issued by a Certifying Authority unless all Section 7.11 Contributions have been paid and the Certifying Authority has sighted Council's &quot;Contribution Sheet&quot; signed by an authorised officer of Council.<br></p><p style=\"text-align&#58;justify;\">XXXMUSTBEPAIDS94XXX</p><p style=\"text-align&#58;justify;\">\n         <strong>delete the paragraph above which does not apply</strong></p><p style=\"text-align&#58;justify;\"></p></div>\n         <strong>A CURRENT COPY OF THE CONTRIBUTION FEE SHEET ATTACHED TO THIS CONSENT&#160;</strong><span style=\"text-decoration-line&#58;underline;\"><strong>MUST</strong></span><strong>&#160;BE PROVIDED AT THE TIME OF PAYMENT.</strong><p></p><p style=\"text-align&#58;justify;\">These charges include indexation provided for in the Section 7.11 Contribution Plan and will remain fixed for a period of 12 months from the date of this consent and thereafter in accordance with the rates applicable in the current version/edition of the relevant Section 7.11 Contribution Plan current at the time of the payment.</p><p style=\"text-align&#58;justify;\">A copy of the Section 7.11 contribution plans may be inspected at the Civic and Cultural Centres, Tumbulgum Road, Murwillumbah and Brett Street, Tweed Heads.<br></p></blockquote></div>",
+                "bottom": "<div class=\"ExternalClass9D4DD57BD09D4A05AF9D2E60E6AF699A\">\n   <div class=\"ministerscap\" style=\"margin-left&#58;40px;\">MINISTERSCAP<br></div><p style=\"text-align&#58;right;\">​<span style=\"font-size&#58;9px;text-align&#58;right;\">[PCC0215/POC0395/PSC0175]</span><br></p></div>",
+                "Raw": null,
+                "ID": 1,
+                "Modified": "2020-07-30T00:58:26Z",
+                "Created": "2020-07-21T05:41:21Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "722c690e-27a5-472c-8fba-0787c275a85e"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)",
+                    "etag": "\"7\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(3)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 3,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "MINISTERSCAP",
+                "text": "<div class=\"ExternalClass9F6403BB3F87442BA58DC7FD0F38C062\">\n   <p style=\"text-indent&#58;-20px;margin-left&#58;40px;\">​*&#160;&#160;&#160;&#160;&#160;Includes adjustments which effect compliance with the Directions from the Minister for Planning in relation to the maximum contribution payable per dwelling dated 13 January 2009 and 19 July 2009.<br></p></div>",
+                "PlanLookupId": null,
+                "top": null,
+                "bottom": null,
+                "Raw": null,
+                "ID": 3,
+                "Modified": "2020-07-30T01:18:15Z",
+                "Created": "2020-07-21T05:48:59Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "e50dbb20-7161-4868-97cc-10998605c929"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)",
+                    "etag": "\"17\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(17)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 17,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "standard",
+                "text": "<div class=\"ExternalClass54A346A19FCD4AD396A102EF80152EB1\">\n   <div style=\"text-indent&#58;80px;max-width&#58;600px;margin-top&#58;20px;\"> \n      <div style=\"display&#58;inline-block;width&#58;20px;text-indent&#58;-40px;\">«</div><div class=\"contdesc\" style=\"display&#58;inline-block;text-indent&#58;-20px;margin-left&#58;20px;\">xxcontributiondescxx&#58;<br></div><div style=\"margin-left&#58;20px;\">\n         <span class=\"numlots\">xxxx</span> lots @ \n         <span class=\"costperlot\">$xxxx</span> per \n         <span class=\"per\">x</span> </div><div class=\"topay\" style=\"display&#58;inline-block;float&#58;right;\">$xxxx</div><div style=\"margin-left&#58;20px;\"> (<span class=\"baseRate\">$yyyy</span>&#160;base rate +&#160;<span class=\"indexation\">$yyyy</span>&#160;indexation)</div><div style=\"margin-left&#58;20px;\"> \n         <span class=\"planname\">plan name</span><span class=\"sector\">sector</span></div></div></div>",
+                "PlanLookupId": null,
+                "top": "<div class=\"ExternalClassA9BDB905CAFF4EF7B6EC1848E201870B\"><div><table cellspacing=\"0\" class=\"ms-rteTable-default\" style=\"margin-left&#58;40px;\"><tbody><tr class=\"ms-rteTableEvenRow-default\"><td class=\"condnum ms-rteTableEvenCol-default\" style=\"width&#58;40px;\">​«<br></td><td class=\"contdesc ms-rteTableOddCol-default\" style=\"width&#58;450px;\">​xxcontributiondescxx&#58;</td><td class=\"ms-rteTableEvenCol-default\" style=\"width&#58;110px;text-align&#58;right;\">​</td></tr><tr class=\"ms-rteTableOddRow-default\"><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\" style=\"width&#58;40px;\">\n                  <br>\n               </td><td class=\"ms-rteTableOddCol-default\" rowspan=\"1\" style=\"width&#58;450px;\"> \n                  <span class=\"numlots\">xxxx</span>&#160;lots @&#160;<span class=\"costperlot\">$xxxx</span>&#160;per&#160;<span class=\"per\">x</span><br>​(<span class=\"baserate\">$yyyy</span>&#160;base rate +&#160;<span class=\"indexation\">$yyyy</span>&#160;indexation)<br></td><td class=\"topay ms-rteTableEvenCol-default\" rowspan=\"1\" style=\"width&#58;110px;text-align&#58;right;\">​$xxxx<br></td></tr><tr class=\"ms-rteTableEvenRow-default\"><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\" style=\"width&#58;40px;\">​<br></td><td rowspan=\"1\" style=\"width&#58;450px;\">\n                  <span class=\"planname\">plan name</span><span class=\"sector\">sector</span></td><td rowspan=\"1\">​</td></tr></tbody></table></div></div>",
+                "bottom": null,
+                "Raw": "nb \"top\" is currently being used by the code",
+                "ID": 17,
+                "Modified": "2020-07-30T01:32:35Z",
+                "Created": "2020-07-29T04:59:54Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "b3363720-6d7e-4f75-a1c6-2f07493f66ad"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)",
+                    "etag": "\"4\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(18)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 18,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "descriptors",
+                "text": "<div class=\"ExternalClass9241B4DC87B84147AF1F4D86BD6690C2\"><p>​(this text not used, see Raw contents) - an entry for every autotext, showing the unique descriptor value<br></p></div>",
+                "PlanLookupId": null,
+                "top": null,
+                "bottom": null,
+                "Raw": "{ \n    \"seaside2\": \"Seaside City Structured Open Space\",\n\"seabreeze2\": \"Seabreeze – Structured Open Space\",\n\"seabreeze1\": \"Seabreeze – Casual Open Space\",\n\"dcp34\": \"South Tweed Heads Master Drainage (DCP Section B3 area)\",\n\"dcp33\": \"Banora Point West/Tweed Heads South (DCP Section B3)<br />Open Space Active (Structured)\",\n\"dcp32\": \"Banora Point West/Tweed Heads South (DCP Section B3)<br />Open Space Passive (Casual)\",\n\"dcp31\": \"Banora Point West/Tweed Heads South (DCP Section B3)<br />Open Space Passive (Casual)\", \n\"cycleways\": \"Cycleways\",\n\"wkingstructured\": \"West Kingscliff - Structured Open Space\", \n\"wkingcycleways\": \"West Kingscliff – Cycleways\",\n\"wkingcommfac\": \"West Kingscliff - Community Facilities\",\n\"wking4\": \"West Kingscliff – Drainage\",\n\"wking1\": \"West Kingscliff – Open Space\",\n\"commfac2\": \"Community Facilities (Tweed Coast - South)\",\n\"commfac1\": \"Community Facilities (Tweed Coast - North)\",\n\"commfac\": \"Community Facilities\",\n\"Cobaki\": \"Cobaki Lakes - Community Facilities & Open Space\",\n\"Mebbin\": \"Mebbin\",\n\"Cemeteries\": \"Eviron Cemetery\",\n\"trcpres1\": \"Tweed Road Contribution Plan\",\n\"lifesaving3\": \"Emergency Facilities (Surf Lifesaving)\", \n\"libraries\": \"Shirewide Library Facilities\",\n\"casopen2\": \"Regional Open Space (Casual)\", \n\"trcpheavy\": \"Tweed Road Contribution Plan Heavy Haulage\",\n\"casopen1\": \"Open Space (Casual)\",\n\"carpark\": \"Shirewide Car Parking\",\n\"cemeteries\":\"Cemeteries\",\n\"thmaster1\": \"Tweed Heads Master Plan\",\n\"terranora2\": \"Terranora Village – Open Space\",\n\"terranora1\": \"Terranora Village – Community Facilities\",\n\"kingsbeach3\": \"Casuarina Beach/Kings Forest Community Facilities\",\n\"kingsbeach2\": \"Casuarina Beach/Kings Forest Cycleways\",\n\"busshelters\": \"Bus Shelters\",\n\"kingsbeach1\": \"Casuarina Beach/Kings Forest Open Space\",\n\"structured2\": \"Regional Open Space (Structured)\",\n\"wkingcasual\": \"West Kingscliff - Casual Open Space\",\n\"structured1\": \"Open Space (Structured)\",\n\"kingsbch1\": \"SALT Open Space and Associated Car Parking\",\n\"admin\": \"Extensions to Council Administration Offices <br/>& Technical Support Facilities\",\n\"streettrees\": \"Street Trees\",\n\"Seaside1\": \"Seaside City Cost of Works\" \n}",
+                "ID": 18,
+                "Modified": "2020-07-30T00:53:12Z",
+                "Created": "2020-07-29T05:45:12Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "3d3b02cc-bffc-45ff-a8da-863b1868720a"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(19)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 19,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "mustbepaid-30days",
+                "text": "<div class=\"ExternalClass4504F8007FB2471994E2FB484527445D\"><p>​within 30 days of commencement of the erection of a dwelling house, units or commercial development<br></p></div>",
+                "PlanLookupId": null,
+                "top": "<div class=\"ExternalClassF8442EF21A894DF8BCBE31C93038263F\"><p>​Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council, except in the case of any S94 Plan No 28 contributions, which must be paid within 30 days of commencement of the erection of a dwelling house, units or commercial development.<br></p></div>",
+                "bottom": null,
+                "Raw": null,
+                "ID": 19,
+                "Modified": "2020-07-29T23:50:05Z",
+                "Created": "2020-07-29T23:50:05Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "682d2fca-2952-46f7-b3aa-4e608a8f1ceb"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(20)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 20,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "mustbepaid-subdivision",
+                "text": "<div class=\"ExternalClass3F3BCE50B45849ECAA771CF5FFA2D660\"><p>​prior to the release of the subdivision certificate<br></p></div>",
+                "PlanLookupId": null,
+                "top": "<div class=\"ExternalClassB308BD363CFE4D5AB5697E677FD0EC8F\"><p>​Pursuant to Section 109J of the Environmental Planning and Assessment Act, 1979 a Subdivision Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council.<br></p></div>",
+                "bottom": null,
+                "Raw": null,
+                "ID": 20,
+                "Modified": "2020-07-29T23:50:42Z",
+                "Created": "2020-07-29T23:50:42Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "5c314d1b-d6c0-4e59-aeb9-56cef41b2cc0"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(21)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 21,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "mustbepaid-tourism",
+                "text": "<div class=\"ExternalClassA625C41E0D46413DA8E51479D5F9EFE6\"><p>​prior to release of construction certificate<br></p></div>",
+                "PlanLookupId": null,
+                "top": "<div class=\"ExternalClassDA1E2816105141D0B30710FD069BD1D5\"><p>​Pursuant to Clause 146 of the Environmental Planning and Assessment Regulations, 2000, a Construction Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council.<br></p></div>",
+                "bottom": null,
+                "Raw": null,
+                "ID": 21,
+                "Modified": "2020-07-29T23:51:22Z",
+                "Created": "2020-07-29T23:51:22Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "ee6b6055-7650-4334-a75b-4ac160ae6c62"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(22)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 22,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "mustbepaid-changeofuse",
+                "text": "<div class=\"ExternalClassE3ABEB8803364B8EA5D893CA07876713\"><p>prior to occupation</p></div>",
+                "PlanLookupId": null,
+                "top": "<div class=\"ExternalClass05BC353B28C44DAEA9CBFED99B3FD690\"><p>​An Occupation Certificate shall NOT be issued by a Certifying Authority unless all Section 94 Contributions have been paid and the Certifying Authority has sighted Council's 'Contribution Sheet' signed by an authorised officer of Council.<br></p></div>",
+                "bottom": null,
+                "Raw": null,
+                "ID": 22,
+                "Modified": "2020-07-29T23:52:04Z",
+                "Created": "2020-07-29T23:52:04Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "712efb2e-21f6-48c0-a2b5-690afad148af"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)",
+                    "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)",
+                    "etag": "\"8\"",
+                    "type": "SP.Data.Condition_x0020_TextListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'3de87502-0abd-4c28-b0f4-3f73d3bfdcc4')/Items(23)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 23,
+                "ContentTypeId": "0x01000B396B7A4B98284A9C515BF2BCAAE9E5",
+                "Title": "feesheettable",
+                "text": "<div class=\"ExternalClassE5F9031C25C7458FA8A7CA083607B535\"><p>​</p><p style=\"text-align&#58;center;\">\n      <strong>SECTION 7.11 AND OTHER DEVELOPER CONTRIBUTIONS SHEET</strong></p><p style=\"text-align&#58;center;\">\n      <strong>THIS FORM </strong>\n      <span lang=\"EN-US\" style=\"text-decoration&#58;underline;\">\n         <strong>MUST</strong></span><strong> ACCOMPANY PAYMENT OF CONTRIBUTIONS TO COUNCIL</strong></p><p>&#160;</p><table cellspacing=\"0\" width=\"100%\" class=\"ms-rteTable-default\"><tbody><tr><td class=\"ms-rteTable-default\" style=\"width&#58;50%;\">\n               <strong>Development&#58;</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;50%;\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Development Consent No.</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Location&#58;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Applicant&#58;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Owner&#58;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Date&#58;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong><strong>&#160;</strong><strong>(recalculated </strong>\n               <strong>30 July 2020</strong><strong>)</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Paid by&#58;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Stage&#58;</strong></td><td class=\"ms-rteTable-default\">&#160;</td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td><td class=\"ms-rteTable-default\">Please note that the fees in this re-calculated fee sheet are current at the date of recalculation.&#160; Fees may change due to amendments to the contribution plans.&#160; Please contact Council PRIOR to payment to check if your fee sheet is still current.</td></tr></tbody></table><p>\n      <strong>&#160;</strong></p><p>\n      <strong>&#160;</strong></p>\n   <table cellspacing=\"0\" width=\"100%\" class=\"ms-rteTable-default\"><tbody><tr><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Contribution Payable</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>S7.11 Contribution Plan Number/Sector</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Area CP5 Only</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Units/lots or rate/ha</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Rate valid until __/__/__</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Amount</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Rate at Time of Payment after __/__/__</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\"><p style=\"text-align&#58;center;\">\n                  <strong>Amount at Time of Payment</strong></p><p style=\"text-align&#58;center;\">\n                  <strong>$</strong></p></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Receipt Number</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Charge Control</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n               <strong>Bank Account</strong></td></tr></tbody></table><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>\n      <strong>Please forward receipt to</strong></p><table cellspacing=\"0\" width=\"100%\" class=\"ms-rteTable-default\"><tbody><tr><td class=\"ms-rteTable-default\" style=\"width&#58;50%;\">\n               <strong>Name&#58;</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;50%;\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>Address&#58;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr><tr><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td><td class=\"ms-rteTable-default\">\n               <strong>&#160;</strong></td></tr></tbody></table><p>\n      <strong>&#160;</strong></p><p>\n      <strong>METHODS OF PAYMENT</strong></p><p>&#160;</p><table cellspacing=\"0\" width=\"100%\" class=\"ms-rteTable-default\"><tbody><tr><td class=\"ms-rteTable-default\" style=\"width&#58;50%;\"><p>\n                  <strong>IN PERSON</strong></p><p>You can pay your Section 7.11 Developer Contributions in person at the Tweed Shire Council's Murwillumbah Office.&#160; Payments can be made by cash, cheque, money order (or EFTPOS (debit card or credit card).</p><p>\n                  <strong>&#160;</strong></p><p>We accept Mastercard or Visa.&#160; Please note that a surcharge will apply to all payments made via credit card.</p><p>\n                  <strong>&#160;</strong></p><p>\n                  <strong>Receipting Hours</strong> Monday - Friday, 8.30am - 4.00pm</p></td><td class=\"ms-rteTable-default\" style=\"width&#58;50%;\"><p>\n                  <strong>BY MAIL</strong></p><p>Please make all cheques payable to Tweed Shire Council.&#160; All cheques must be crossed 'Not Negotiable'.&#160; Post dated cheques will not be accepted.</p><p>&#160;</p><p>Mail payments to&#58;<strong> PO Box 816, Murwillumbah</strong><strong>&#160; </strong>\n                  <strong>NSW</strong><strong>&#160; </strong>\n                  <strong>2484</strong></p></td></tr></tbody></table><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>\n      <br>\n   </p></div>",
+                "PlanLookupId": null,
+                "top": "<div class=\"ExternalClassC9039DC94EEF494682A443E3B811E6D0\"><table cellspacing=\"0\" width=\"100%\" class=\"ms-rteTable-default\"><tbody><tr><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Contribution Payable</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>S7.11 Contribution Plan Number/Sector</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Area CP5 Only</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Units/lots or rate/ha</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Rate valid until __/__/__</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Amount</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Rate at Time of Payment after __/__/__</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\"><p style=\"text-align&#58;center;\">\n               <strong>Amount at Time of Payment</strong></p><p style=\"text-align&#58;center;\">\n               <strong>$</strong></p></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Receipt Number</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Charge Control</strong></td><td class=\"ms-rteTable-default\" style=\"width&#58;9.09091%;\">\n            <strong>Bank Account</strong></td></tr></tbody></table>\n<br></div>",
+                "bottom": "<div class=\"ExternalClass042411DD303A4A5D97E34A5146C76FBA\"><p><span style=\"color&#58;#ff0000;\"><strong>​NB&#58; the body of the feesheet must be generated from CI data as usual, the calculator&#160;code will use this entry to&#160;generate&#160;the fee table <span style=\"text-decoration&#58;underline;\">only</span>.&#160; It is the RAW json values below which are used to generate the table, one value for each column, the formatted text above is retained for information only.&#160; Raw json names&#160;prefixed 'empty-' do not have corresponding data to insert.&#160; Other json names exactly match the data name being used in the calculator.</strong></span><br></p></div>",
+                "Raw": "{\n\"rateTitle\":\"Contribution Payable\",\n\"planNum\":\"S7.11 Contribution Plan Number/Sector\",\n\"empty-cp5Only\":\"Area CP5 Only\",\n\"rateInput\":\"Units/lots or rate/ha\",\n\"rateAmount\":\"Rate valid until _/_/_ \",\n\"rateCappedTotal\":\"Amount\",\n\"empty-rateAmountAtTimeOfPayment\":\"Rate at Time of Payment after _/_/_\",\n\"empty-amountAtTimeOfPayment\":\"Amount at time of Payment\",\n\"empty-ReceiptNo\":\"Receipt Number\",\n\"rateCC\":\"Charge Control\",\n\"empty-Bank\":\"Bank Account\"\n}",
+                "ID": 23,
+                "Modified": "2020-07-30T06:30:47Z",
+                "Created": "2020-07-30T01:42:05Z",
+                "AuthorId": 21,
+                "EditorId": 21,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "5c7bc513-2d3b-4c56-a781-e1c082583c0b"
+            }
+        ]
+    }
+}

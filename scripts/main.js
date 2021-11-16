@@ -3,6 +3,7 @@ var planList;
 var devTypes = [];
 var defaultCap = 20000;
 var loggedInUser;
+var data; // in wikiAsVariable.json;
 
 var excludedPlans = [0, 6, 29, 30, 31];
 
@@ -108,6 +109,11 @@ function afterLoad() {
     //ExecuteOrDelayUntilScriptLoaded(getUser, "sp.js");
 
     //FIRST GET THE MAIN DATASET OF RATES
+
+	//wikiData = JSON.parse(wikiData);
+
+	//console.log("wikiData:");
+	//console.log(wikiData);
 
     Papa.parse("data/Levy Rates.csv", {
             download: true,
@@ -223,6 +229,60 @@ function afterLoad() {
             }
         });
 
+		// testurl:  http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Infrastructure%20Charges%20Info')/items?$select=Id,Title0,WikiField
+		//fetch("http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Infrastructure%20Charges%20Info')/items", { mode: 'no-cors'})
+
+		// TO GET WIKI.JSON from inhouse SP
+		// goto http://tscps/prac/infrastructure
+		//use the 'SharePoint Rest Client (pOwered by SharePoint Plex) extension to Chrome
+		// this url /_api/web/lists/GetByTitle('Infrastructure%20Charges%20Info')/items?$select=Id,Title0,WikiField
+		// copy the resulting text into the wiki.json file
+		fetch("data/wiki.json")
+		.then(async response => {
+			//JSON.parse(response)
+			//console.log(response)
+		try {
+			data = await response.json()
+			console.log('response data?', data);
+			wikiData = data.d.results;
+		} catch(error) {
+			console.log('error happened here!');
+			console.error(error)
+		}
+		});
+
+
+		fetch("data/text.json")
+		.then(async response => {
+			//JSON.parse(response)
+			//console.log(response)
+		try {
+			condTextAll = await response.json()
+			console.log('response data?', condTextAll);
+			condText = condTextAll.d.results;
+		} catch(error) {
+			console.log('error happened here!');
+			console.error(error)
+		}
+		});
+		
+		
+		
+		/*
+		.then(data => {
+			console.log(data)
+		}); */
+ 
+/*
+		fetch("data/wiki.xml")
+		.then(response => {
+			console.log(response)
+			//JSON.parse(response)
+			response.text()
+		})
+		.then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+        .then(data => console.log(data));
+*/
   
 
 
@@ -731,15 +791,15 @@ document.oninput = function(ev) {
     		}
     		//name isn't retained pulling it back from save
     		if (ev.target.classList.contains("selectDevType")) {
-    			//  if(ev.target.name == "selectDevType") {
-    			//   console.log(ev.target.name, ev.target.type, ev.target.id, ev.target.checked, ev.target.value);
-    			if (ev.target.checked) ev.target.setAttribute("checked", "checked");
+
+				if (ev.target.checked) ev.target.setAttribute("checked", "checked");
     			if (!ev.target.checked) ev.target.removeAttribute("checked");
     			var prefix = ev.target.value.substr(0, 3);
     			var prefix2 = ev.target.value.substr(0, 3);
-    			var stageOptions = ev.target.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode; // this is 'whole stage'
-                console.log(stageOptions);
-    			console.log(stageOptions.id);
+    			var stageOptions = ev.target.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode; // this is 'whole stage'
+				//console.log(prefix2);
+                //console.log(stageOptions);
+    			//console.log(stageOptions.id);
     			//  var checkedBoxes = stageOptions.querySelectorAll(".devTypeSelector:checked").length;
     			var checkedBoxes = stageOptions.querySelectorAll(".selectDevType:checked").length;
     			if(debug) console.log("num checked boxes:" + checkedBoxes);
@@ -750,9 +810,9 @@ document.oninput = function(ev) {
     			// however 1ET = 1 lot, instead of 4br
     			//  var selectedRows = document.querySelectorAll("div[data-devtypes*='"+prefix2+"']");
     			var selectedPlanRows = stageOptions.querySelectorAll("div[data-devtypes*='" + prefix2 + "']");
-    			//  console.log(stageOptions);
+    			 // console.log(stageOptions);
     			//  console.log(prefix2);
-    			//  console.log(selectedPlanRows);
+    			  //console.log(selectedPlanRows);
     			var cp23PlanRow = stageOptions.querySelector("div[data-plannum='23']");
     			//  selectedRows = selectedRows.querySelectorAll("div:not('.localPlan')");
     			if (ev.target.checked) {
@@ -1306,8 +1366,20 @@ document.oninput = function(ev) {
     		}
     	} else { //not an input
     		console.log("clicked something else in comp func:");
-    		//    console.log(ev.target);
-    		// console.log(ev.target.parentNode.getAttribute("role"));
+			//console.log(ev.target);
+
+			if (ev.target.classList.contains("infoImage")) {
+			//	if (ev.target.parentNode.classList.contains('infoDiv')) {
+					//console.log(ev.target);
+					if(debug) console.log(ev.target);
+					//var pageId = ev.target.querySelector(".infoImage").getAttribute("data-helpid");
+					var pageId = ev.target.parentNode.getAttribute("data-helpid");
+					console.log(pageId);
+					if (pageId) {
+						helpPopup(pageId);
+					}
+				}
+
     		if (ev.target.id == "calcDescription") {
     			ev.target.onblur = function(ev2) {
     				document.title = "s7-11 Calculation-" + ev2.target.textContent.replace("/", "") + "-" + loggedInUser;
@@ -1316,55 +1388,71 @@ document.oninput = function(ev) {
     		if (ev.target.id == "closeFloatable") {
     			ev.target.parentNode.parentNode.classList.add("hidden");
     		}
-    		//if(ev.target.classList.contains("infoImage")) { 
-    		if (ev.target.classList.contains("infoDiv")) {
-    			if(debug) console.log(ev.target);
-    			//var pageId = ev.target.querySelector(".infoImage").getAttribute("data-helpid");
-    			var pageId = ev.target.getAttribute("data-helpid");
-    			if (pageId) {
-    				helpPopup(pageId);
-    			}
-    		}
+
     	}
     }
 
 
     
     function helpPopup(pageId) {
+		/*
     	payload = {
     		method: 'GET',
     		headers: {
     			"Accept": "application/json; odata=verbose"
     		},
     		credentials: 'same-origin' // or credentials: 'include'  
-    	}
+    	} */
     	//fetch("https://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Calculation Data')/items(" +id+ ")", payload)
     	//fetch is an es6 function, fetch.umd.js is a pollyfill shim to make it work with IE10
     	// when IE10 well and truly gone, the script link above can be removed, also the promise polyfill
     	// ACTUALLy there's a lot of ES6 features now, so forget about using IE10 with this
 
     	if(debug) console.log("http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Infrastructure Charges Info')/items(" + pageId + ")");
-
+		console.log('help popup')
 
         //TODO:  REWRITE FOR NON-FETCH
-        fetch("http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Infrastructure Charges Info')/items(" + pageId + ")", payload).then(function(response) {
-    		if (response.ok) {
-    			return response.json();
-    		}
-    	}).then(function(data) {
+        //fetch("http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Infrastructure Charges Info')/items(" + pageId + ")", payload).then(function(response) {
+		//fetch("http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Infrastructure Charges Info')/items(" + pageId + ")", payload).then(function(response) {
+
+
+		
+		console.log(data);
+		console.log(wikiData);
+		console.log(pageId);
+
+
+		 function filterObject(id) {
+			return wikiData.filter(function(item) {
+				return item.ID == id;
+			})
+		}
+	
+		var tmpWiki = filterObject(parseInt(pageId));
+
+		console.log(tmpWiki);
+
+
+
+
+    	//	if (response.ok) {
+    	//		return response.json();
+    	//	}
+    	//}).then(function(data) {
     		//    console.log(data);
     		html = "";
-    		records = data.d;
+    		//records = data.d;
     		//  console.log(data.d);
-    		var footer = "<span class='sweetFooter'>Click to view the <a class='sweetFooter' target='_blank' href='" + records.OData__dlc_DocIdUrl.Url + "'>source</a> wiki page in a new tab.</span>";
+    		var footer = "<span class='sweetFooter'>Click to view the <a class='sweetFooter' target='_blank' href='http://tscps/prac/infrastructure/Infrastructure Charges Info/" + tmpWiki[0].Title0 + ".aspx'>source</a> wiki page in a new tab.</span>";
+			//var footer = "";
     		Swal.fire({
     			icon: "info",
-    			title: data.d.Title0,
-    			html: data.d.WikiField,
+    			title: tmpWiki[0].Title0,
+    			html: tmpWiki[0].WikiField,
     			width: 800,
     			footer: footer
     		});
-    	});
+    	//});
     }
 
 
@@ -1772,15 +1860,15 @@ function makeWord(data, capped) {
 	}
 	console.log("saveToSP:" + saveToSP);
 	console.log("capped:" + capped);
-	var condText;
-	payload = {
+//	var condText;
+/*	payload = {
 		method: 'GET',
 		headers: {
 			"Accept": "application/json; odata=verbose"
 		},
 		credentials: 'same-origin' // or credentials: 'include'  
-	}
-	fetch("http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Condition%20Text')/items", payload).then(function(response) {
+	} */
+	/*fetch("http://tscps/prac/infrastructure/_api/web/lists/GetByTitle('Condition%20Text')/items", payload).then(function(response) {
 		if (response.ok) {
 			return response.json();
 		}
@@ -1788,8 +1876,13 @@ function makeWord(data, capped) {
 		records = d.d.results;
 		console.log(records);
 		condText = records;
-	}).then(function(d2) {
+	}).then(function(d2) { */
 		// const groupByStage = groupBy("stageName");
+
+		/*condText = condText.filter(function(item) {
+			return condTexts
+		}); */
+
 		swal.fire({
 			icon: "question",
 			title: "When is payment required?",
@@ -1980,7 +2073,7 @@ function makeWord(data, capped) {
 				return;
 			};
 		}); //end last then
-	}); //end of after swal.fire
+	//}); //end of after swal.fire
 	/* const doc = new docx.Document();
 
 	 const table = new docx.Table();
@@ -3153,6 +3246,13 @@ async function getRateData(date, array) {
         return tempArray;
 
 }
+
+
+
+
+
+
+
 
 
 //sp/ms only

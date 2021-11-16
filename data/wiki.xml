@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:gml="http://www.opengis.net/gml">
+    <id>37fd2b3b-83a4-44f7-9b44-9bc44e067bb0</id>
+    <title />
+    <updated>2021-11-15T03:51:33Z</updated>
+    <entry m:etag="&quot;2&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">1</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClassFEA9F6A62667469293484AF66343B749"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;99.9%;"&gt;&lt;div class="ms-rte-layoutszone-inner" style="min-height&amp;#58;60px;word-wrap&amp;#58;break-word;"&gt;&lt;strong&gt;How to use this wiki library&lt;/strong&gt;&lt;br&gt;You can use this wiki library to share knowledge, brainstorm ideas, collaborate with your team on a design, create an instruction guide, build an encyclopedia of knowledge, or just write down daily information in an easily accessible and modifiable format.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Editing pages&lt;/strong&gt;&lt;br&gt;To edit this page, click on the &lt;strong&gt;Edit Page&lt;/strong&gt; icon at the top of the page. To see all available commands, click on the &lt;strong&gt;Page&lt;/strong&gt; tab. When you are editing, you can type text onto the page or insert tables and pictures. To stop editing, click the &lt;strong&gt;Save&lt;/strong&gt; button at the top of the page. If you leave the page while editing, you will be prompted to save your changes.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Creating wiki links&lt;/strong&gt;&lt;br&gt;You can link to another page in this wiki library by enclosing the name of the page in double brackets. When you type [[, the wiki will suggest page names that start with what you've typed. You can select one of these pages using the arrow keys or the mouse, or you can type in a new name. If you type in a new name, it will make a link to a page which has not yet been created. Links are finished by typing ]]. If you are linking to a page in a subfolder or an item in another list, you can press tab to add the selected suggested item to your link without closing the link.&lt;br&gt;&lt;br&gt;You can link to many objects in SharePoint, not just pages. Here are some examples of links&amp;#58;&lt;br&gt;[[Dogs]] &amp;#58; A link to a page named Dogs in the same folder.&lt;br&gt;[[Animals/Dogs]] &amp;#58; A link to a page named Dogs in a subfolder called Animals.&lt;br&gt;[[List&amp;#58;Announcements/Welcome]] &amp;#58; A link to the item called Welcome in the Announcements list on this site.&lt;br&gt;&lt;br&gt;To create a link to a page and have the link display different text than the page name, type a pipe character (|) after the page name, and then type the display text. For example, type [[Home|Home Page]] to create the link labeled Home Page that points to the page named Home.&lt;br&gt;&lt;br&gt;To display double opening or closing brackets without making a link, type a backslash before the two brackets. For example, \[[ or \]].&lt;br&gt;&lt;br&gt;&lt;strong&gt;Creating pages&lt;/strong&gt;&lt;br&gt;There are two main ways to create a new page in your wiki library&amp;#58;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;u&gt;Create a link to a page which does not exist and then click on it to create the page&lt;/u&gt;&amp;#58;&lt;br&gt;This is the recommended way to create a page because it is easier for people to find the page when another page links to it. Links to pages that do not yet exist have a dashed underline.&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;u&gt;Create a page that is not linked to any other&lt;/u&gt;&amp;#58;&lt;br&gt;In the &lt;strong&gt;Settings&lt;/strong&gt; menu, click &lt;strong&gt;Add a page&lt;/strong&gt;. This will ask you for a name and then create that page in the current wiki library.&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;strong&gt;Managing your wiki library&lt;/strong&gt;&lt;br&gt;You can manage the pages in your wiki library by clicking &lt;strong&gt;View All Pages&lt;/strong&gt; on the &lt;strong&gt;Page&lt;/strong&gt; tab of any page in the library.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Restoring a page&lt;/strong&gt;&lt;br&gt;If you need to restore a previous version of a page, click &lt;strong&gt;Previous Versions&lt;/strong&gt; in the &lt;strong&gt;Page&lt;/strong&gt; tab at the top of the page. You can then click on any of the versions in the quick launch to view the page as it existed at that time. If you want to restore to a version, select it and click &lt;strong&gt;Restore this version&lt;/strong&gt; in the toolbar.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Viewing incoming links&lt;/strong&gt;&lt;br&gt;You can see which pages link to the current page by clicking &lt;strong&gt;Incoming Links&lt;/strong&gt; at the top of the page. This will show you any pages which link to this page.&lt;br&gt;&lt;br&gt;&lt;br&gt;For more information about using Microsoft SharePoint Foundation-based wiki libraries, click Help on any Microsoft SharePoint Foundation page.&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId m:null="true" />
+                <d:OData__dlc_DocIdUrl m:null="true" />
+                <d:PageType m:null="true" />
+                <d:Title0 m:null="true" />
+                <d:ID m:type="Edm.Int32">1</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-08T00:24:36Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-08T00:24:38Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">7138f408-a361-4c2e-95cd-007a698a7adf</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;4&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">2</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass13C932AB855243B7846978FC03F379E8"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;ul&gt;&lt;li&gt;&lt;a id="0&amp;#58;&amp;#58;Instructions|Instructions" class="ms-wikilink" href="/prac/infrastructure/Infrastructure%20Charges%20Info/Instructions.aspx"&gt;Instructions&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/prac/infrastructure/Infrastructure%20Charges%20Info/Forms/AllPages.aspx"&gt;All pages&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/prac/infrastructure/SitePages/Infrastructure%20Calculation%20Wiki%20Export.aspx" target="_blank"&gt;Export Page - shows all entries together&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-2</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-2</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-2</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0 m:null="true" />
+                <d:ID m:type="Edm.Int32">2</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-08T00:24:38Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-08-06T01:17:47Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>3.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">59a2272c-cf5b-4ae9-a586-7731e0ecad32</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;3&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">3</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass3432399AB0E74AB1A5A8E8B831C0256B"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;This is general documentation for the contribution&amp;#160;calculation page at&amp;#160;&lt;a href="/prac/infrastructure/SitePages/Infrastructure%20Charges.aspx"&gt;http&amp;#58;//tscps/prac/infrastructure/SitePages/Infrastructure%20Charges.aspx&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The page is generated by a script called infrastructureCharges.js which is saved in /prac/infrastructure/siteassets/scripts.&lt;br&gt;&lt;/p&gt;&lt;p&gt;It relies on up to date information saved in the following lists&amp;#58;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="/prac/infrastructure/Lists/S94%20Plans/AllItems.aspx"&gt;Plan List&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/prac/infrastructure/Lists/S94%20Levy%20Rates/Current%20Rates.aspx"&gt;S94 Levy Rates&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;The Levy Rates list has been in existence for some time, however in 2020 it was updated to include a few additional columns to enable it to be used in the new&amp;#160;calcuator.&lt;br&gt;&lt;/div&gt;&lt;div&gt;The columns added were&amp;#58; BaseRate, 1ETBaseRate, BaseRateDwelling, ChargeControl, ChargeMultiplier, Overrides.&amp;#160;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Columns which are essential to be maintained, and are utilised by the script are&amp;#58; Amount, Title, Effective/Ended, Per, Dwelling, Applies to.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note that the script is unable to read 'calculated' columns such as 1ET and 1ETBaseRate - therefore&amp;#160;these values are recalculated within the script itself.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;FURTHER WORK NEEDED&amp;#58;&amp;#160; &lt;/strong&gt;The script also reads in data from the Calculation Data list - this list was imported from the original calculation spreadsheet, and was used as a reference, however it is not involved in generating the charge, so could in future be removed. HOWEVER, there is a known issue in matching rounding so that calculations match CI's calculation result, so the S94 Levy Rates list may need further adjustment to align the result better with what can be reproduced in CI.&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-3</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-3</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-3</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0 m:null="true" />
+                <d:ID m:type="Edm.Int32">3</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-08T00:26:17Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-08T00:35:31Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">32018e71-5b5a-4136-b9d8-7b24b7682de7</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;21&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">4</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass7B0ADC7A24D64808B0165D3F9C8ADF05"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;h2 style="text-align&amp;#58;left;"&gt;Record the number of bedrooms&amp;#58;&lt;br&gt;&lt;/h2&gt;&lt;p&gt;The starting point for each levy calculation is the 'cost per person', however most&amp;#160;infrastructure&amp;#160;charges are&amp;#160;set up in CI as the cost 'per one ET' (Equivalent Tenement).&amp;#160; CI multiplies&amp;#160;this charge by the number of&amp;#160;ETs&amp;#160;(which are manually&amp;#160;entered when the charge is raised).&amp;#160; &amp;#160;Use this section to calculate the number of ETs from the number of bedrooms entered.&amp;#160; The calculator uses&amp;#160;the multipliers shown below to convert number of bedrooms into ETs.&lt;br&gt;&lt;/p&gt;&lt;table cellspacing="0" width="100%" class="ms-rteTable-default"&gt;&lt;tbody&gt;&lt;tr class="ms-rteTableHeaderRow-default"&gt;&lt;th class="ms-rteTableHeaderEvenCol-default" rowspan="1" colspan="1" style="width&amp;#58;33.3333%;"&gt;​&lt;/th&gt;&lt;th class="ms-rteTableHeaderOddCol-default" rowspan="1" colspan="1" style="width&amp;#58;33.3333%;text-align&amp;#58;center;"&gt;​​Number of Persons&lt;br&gt;(Refer to plans)&lt;/th&gt;&lt;th class="ms-rteTableHeaderEvenCol-default" rowspan="1" colspan="1" style="width&amp;#58;33.3333%;"&gt;
+            &lt;p style="text-align&amp;#58;center;"&gt;​Number of ET's/bedroom (2.4/Number of Persons)&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr class="ms-rteTableOddRow-default"&gt;&lt;td class="ms-rteTableEvenCol-default"&gt;​1 bedroom&lt;br&gt;&lt;/td&gt;&lt;td class="ms-rteTableOddCol-default" style="text-align&amp;#58;center;"&gt;​1.3&lt;/td&gt;&lt;td class="ms-rteTableEvenCol-default" style="text-align&amp;#58;center;"&gt;​0.541666667&lt;/td&gt;&lt;/tr&gt;&lt;tr class="ms-rteTableEvenRow-default"&gt;&lt;td class="ms-rteTableEvenCol-default" rowspan="1"&gt;​2 bedroom&lt;/td&gt;&lt;td class="ms-rteTableOddCol-default" rowspan="1" style="text-align&amp;#58;center;"&gt;​1.7&lt;/td&gt;&lt;td class="ms-rteTableEvenCol-default" rowspan="1" style="text-align&amp;#58;center;"&gt;​0.708333333&lt;/td&gt;&lt;/tr&gt;&lt;tr class="ms-rteTableOddRow-default"&gt;&lt;td class="ms-rteTableEvenCol-default" rowspan="1"&gt;​3 bedroom&lt;/td&gt;&lt;td class="ms-rteTableOddCol-default" rowspan="1" style="text-align&amp;#58;center;"&gt;​2.1&lt;/td&gt;&lt;td class="ms-rteTableEvenCol-default" rowspan="1" style="text-align&amp;#58;center;"&gt;​0.875&lt;/td&gt;&lt;/tr&gt;&lt;tr class="ms-rteTableEvenRow-default"&gt;&lt;td class="ms-rteTableEvenCol-default" rowspan="1"&gt;​4+ bedroom&lt;/td&gt;&lt;td class="ms-rteTableOddCol-default" rowspan="1" style="text-align&amp;#58;center;"&gt;​2.4&lt;/td&gt;&lt;td class="ms-rteTableEvenCol-default" rowspan="1" style="text-align&amp;#58;center;"&gt;​1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2 style="text-align&amp;#58;left;"&gt;Number of trips are calculated from the number of ETs&amp;#58;&lt;/h2&gt;&lt;p style="text-align&amp;#58;left;"&gt;For any residential development, the number of trips/ET = 6.5, therefore the calculated trips will be 6.5 x&amp;#160;the total number of ETs.&amp;#160; &amp;#160;The number of trips will be recalculated whenever any 'bedrooms' input box is changed.&lt;/p&gt;&lt;h2 style="text-align&amp;#58;left;"&gt;Multidwelling&amp;#160;housing&amp;#58;&lt;/h2&gt;&lt;p style="text-align&amp;#58;left;"&gt;Checking multidwelling housing reduces the trips/ET&amp;#160; from 6.5&amp;#160;to 3.9.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-4</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-4</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-4</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType>Calculator Help</d:PageType>
+                <d:Title0>Development Type-Residential</d:Title0>
+                <d:ID m:type="Edm.Int32">4</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T01:00:08Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-08-05T01:28:15Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>20.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">66ac4b5d-d7c2-47d8-85d2-757f068b946c</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;4&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">5</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass98666A5F98A54FD0BBEC9A9161ACF273"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;Enter the number of lots, trips will be calculated at the rate of 6.5 trips/lot.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note&amp;#58; infrastructure charges in CI are set up to calculate 'per ET' where (in most cases) 1 subdivision lot = 1ET.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-5</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-5</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-5</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType>Calculator Help</d:PageType>
+                <d:Title0>Development Type-Subdivision</d:Title0>
+                <d:ID m:type="Edm.Int32">5</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T01:57:28Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-09T01:59:35Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>3.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">1872fce9-d977-4f28-bf03-7b79ca88e90d</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;12&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">6</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClassB69720D676E74A14B018C7087570D256"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;h2&gt;Some inputs must be calculated manually&lt;br&gt;&lt;/h2&gt;&lt;p&gt;Refer to the relevant plan(s) and/or the Traffic Engineer&amp;#160;to determine what the value of ETs,&amp;#160;GFA and Trips should be for this development.&amp;#160; Note the following regarding specific plans&amp;#58;&lt;br&gt;&lt;/p&gt;&lt;table cellspacing="0" width="100%" class="ms-rteTable-default" style="height&amp;#58;162px;"&gt;&lt;tbody&gt;&lt;tr class="ms-rteTableEvenRow-default"&gt;&lt;td class="ms-rteTableEvenCol-default" style="width&amp;#58;30%;text-align&amp;#58;left;"&gt;​CP04 - Tweed Road Contribution Plan&lt;br&gt;&lt;/td&gt;&lt;td class="ms-rteTableOddCol-default" style="width&amp;#58;50%;text-align&amp;#58;left;"&gt;​includes&amp;#160;a detailed table of development types which must be used to work out the number of trips applicable to the development.&amp;#160; The number of trips for commercial development must be calculated and entered manually.&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class="ms-rteTableOddRow-default"&gt;&lt;td class="ms-rteTableEvenCol-default" style="text-align&amp;#58;left;width&amp;#58;30%;"&gt;​CP18 - Council Admin Facilities&lt;br&gt;&lt;/td&gt;&lt;td class="ms-rteTableOddCol-default" style="text-align&amp;#58;left;"&gt;​includes rates for GFA for commercial development.&amp;#160; You can enter the GFA - the result&amp;#160;will be converted back to ETs for inputting into CI.&amp;#160; 
+            &lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class="ms-rteTableEvenRow-default"&gt;&lt;td class="ms-rteTableEvenCol-default" rowspan="1" style="text-align&amp;#58;left;width&amp;#58;30%;"&gt;​CP23 - Offsite Parking&lt;br&gt;&lt;/td&gt;&lt;td class="ms-rteTableOddCol-default" rowspan="1"&gt;&lt;div style="text-align&amp;#58;left;"&gt;optional charge available only to developments in identified business zones, where, if deemed acceptable&amp;#160;by Council's Traffic Engineer, the developer may elect to pay a contribution per unsupplied parking space rather than providing parking onsite.&amp;#160; &lt;/div&gt;&lt;div style="text-align&amp;#58;left;"&gt;
+               &lt;br&gt;
+            &lt;/div&gt;&lt;div style="text-align&amp;#58;left;"&gt;This plan will not apply to every commercial development, therefore it is inactive by default.&amp;#160; Double-click the Plan/Levy if required.&lt;br&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;Commercial Levies&lt;br&gt;&lt;/h2&gt;&lt;p&gt;
+   &lt;a href="/prac/infrastructure/Lists/S94%20Levy%20Rates/Current%20Rates.aspx#InplviewHashbee3f9bc-0e9f-4356-bdb9-561d1f3209bf=FilterField1%3DApplies%255Fx0020%255Fto-FilterValue1%3DCommercial" target="_blank"&gt;Click here&lt;/a&gt;&amp;#160;to check the latest commercial levies, or check the&amp;#160;'show extras' checkbox on the calculator to see which plans are applicable to commercial development.&lt;br&gt;&lt;/p&gt;&lt;h2&gt;Discounts&lt;br&gt;&lt;/h2&gt;&lt;p&gt;Contribution discounts may be applicable under Council's &lt;a href="https&amp;#58;//www.tweed.nsw.gov.au/Business/SupportServices"&gt;Business Investment Policy&lt;/a&gt; if the development is employment generating or an eligible business.&amp;#160; Check the policy&amp;#160;for details about these discounts, and if relevant, enter the values in this section.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-6</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-6</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-6</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Development Type-Commercial</d:Title0>
+                <d:ID m:type="Edm.Int32">6</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T02:01:33Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-08-05T00:58:33Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>11.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">650d6247-2154-4e03-bd88-ff992e3541ae</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;7&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">7</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClassA7ECE677687D4024BEDB3D3CEEA61704"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;h2&gt;Slight difference between 'Residential' and 'Tourist' development&lt;br&gt;&lt;/h2&gt;&lt;p&gt;Tourist development does not pay a contribution for Structured Open Space and is not eligible for a multi-dwelling housing trip discount.&amp;#160; Otherwise the calculations are based on the number of bedrooms,&amp;#160;similar to&amp;#160;Residential development.&lt;/p&gt;&lt;h2&gt;Does Drainage apply to tourist development?&lt;br&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;At the present time (July 2020) there is a different treatment of 'Drainage' between CP01 (Banora Point) and CP07 (West Kingscliff) and this needs to be confirmed/clarified.&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-7</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-7</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-7</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Development Type-Tourist</d:Title0>
+                <d:ID m:type="Edm.Int32">7</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T02:24:46Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-09T03:58:44Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>6.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">7243f988-9e17-4f57-a6ed-03f781cf515c</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;5&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">8</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass7655B91347E44A2DB66535A3EBD92F00"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;For unusual developments which follow non-standard&amp;#160;rules, select plans and&amp;#160;complete the inputs directly below.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-8</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-8</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-8</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType>Calculator Help</d:PageType>
+                <d:Title0>Development Type-Other</d:Title0>
+                <d:ID m:type="Edm.Int32">8</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T03:59:54Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-09T04:03:20Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>4.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">78f5ecb2-e53f-4fb3-8c93-732e0ec258d2</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;8&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">9</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass775FB79D800B4219BF185729AD78FB34"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;Enter the (negative) number of ETs, GFA and/or Trips that represent credits due to this development.&amp;#160; This will be deducted from the full number of ETs applied to each active plan.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If you type in a positive number, it will be converted to its negative equivalent.&amp;#160; If you want to enter&amp;#160;a number less than 1 to be converted to its negative equivalent, omit the preceding &amp;quot;0&amp;quot;, eg type .5 to enter -0.5.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-9</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-9</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-9</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType>Calculator Help</d:PageType>
+                <d:Title0>Development Type-Credits</d:Title0>
+                <d:ID m:type="Edm.Int32">9</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T04:17:40Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-10T04:24:25Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>7.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">d2d3e33b-e274-499d-a82e-75def7d1dce7</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;5&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">10</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass015174CAC8374B08A9F8AC3A6C723CA8"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;The maximum allowble contribution per lot is capped by the State Government.&lt;br&gt;&lt;/p&gt;&lt;p&gt;As of July 2020, the contribution cap of $30k for greenfield development&amp;#160;sites (see &lt;a href="/prac/infrastructure/Reference/Ministers%20Direction%20September%202010/Greenfield%20Development%20Areas_20100909.pdf" target="_blank"&gt;map of approved sites&lt;/a&gt;) and $20k for other sites has been in place for around 10 years.&amp;#160;&amp;#160;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;The State Government are currently reviewing the cap and it may be raised in the near future.&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-10</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-10</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-10</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Apply Cap</d:Title0>
+                <d:ID m:type="Edm.Int32">10</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T05:45:48Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-09T05:50:15Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>4.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">3cc0c62d-9a11-4eaa-b1bd-32bd2563d2ad</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;6&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">11</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass401AEDF26C714851927C04BCE992799E"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;Check &lt;span class="ms-rteStyle-Accent1"&gt;&lt;strong&gt;hide 0's&amp;#160;&lt;/strong&gt;&lt;/span&gt;on to hide every row with a zero value, after entering input values against&amp;#160;items&amp;#160;that will be levied.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-11</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-11</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-11</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Checkbox-Hide Zeros</d:Title0>
+                <d:ID m:type="Edm.Int32">11</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T05:51:59Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-09T06:02:35Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>5.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">85365e26-1351-4219-bcec-9bdd991e5cf5</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;10&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">12</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClassC81DC94DB4394C1499FB030980F9F160"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p style="text-align&amp;#58;left;"&gt;Check/uncheck &lt;strong class="ms-rteStyle-Accent1"&gt;Hide Inactive&lt;/strong&gt; to hide/show all greyed out (inactive)&amp;#160;rows.&amp;#160; &amp;#160;&lt;/p&gt;&lt;p style="text-align&amp;#58;left;"&gt;With inactive rows showing, double-click an individual plan title, and/or&amp;#160;levy row to reactivate that row.&amp;#160;&amp;#160;&lt;br&gt;&lt;/p&gt;&lt;p style="text-align&amp;#58;left;"&gt;Rows are automatically activated/deactivated depending on the development type options selected, however this status can be manually&amp;#160;overridden by double-clicking.&lt;br&gt;&lt;/p&gt;&lt;p style="text-align&amp;#58;left;"&gt;When a local plan which overrides a shirewide plan is selected, eg CP01, the relevant shirewide plans will be deactivated automatically.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-12</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-12</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-12</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Checkbox-Hide Inactive</d:Title0>
+                <d:ID m:type="Edm.Int32">12</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T06:04:23Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-29T04:05:30Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>9.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">139bd18a-b0cd-4463-991c-ca5fa40c4c14</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;5&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">13</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass747BBF6C54244BE09C18BFD838C99953"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;Check the &lt;strong class="ms-rteStyle-Accent1"&gt;show extras&lt;/strong&gt; checkbox to view additional data for each levy such as 'base rate',&amp;#160;'applies to' and 'charge control'.&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-13</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-13</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-13</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Checkbox-Show Extras</d:Title0>
+                <d:ID m:type="Edm.Int32">13</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T06:11:26Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-09T06:13:04Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>4.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">f57aa91a-326c-4432-b4a8-c5c9c558d951</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;5&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">14</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClassAB8A929CEA744F37B04D3008468E034D"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;A development will normally be levied CP04 (Tweed Road Contribution Plan) contributions for one sector only.&amp;#160; Check this checkbox to quickly deactivate all sectors, then double-click the sector that applies to this development to activate it.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-14</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-14</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-14</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType>Calculator Help</d:PageType>
+                <d:Title0>Checkbox-Deactivate CP04 Sectors</d:Title0>
+                <d:ID m:type="Edm.Int32">14</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T06:24:10Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-09T06:26:25Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>4.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">825f8296-ee7d-42dd-8fb4-fd01aecd8a54</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;5&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">15</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass3D38E895D1074E228414051A5CE55AD3"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;The default&amp;#160;Stage Name can be typed over if necessary.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-15</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-15</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-15</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Stage Name</d:Title0>
+                <d:ID m:type="Edm.Int32">15</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-09T23:29:05Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-10T00:16:02Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>4.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">fb074270-50e0-4d10-8c5c-586f79983288</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;6&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">16</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass8B12D6922ED44B7D886E26CEF66621EA"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p style="text-align&amp;#58;left;"&gt;This can be altered to represent a date in the past or the future (if future rates have been entered), however there needs to be suitably configured entries in the &lt;a href="/prac/infrastructure/Lists/S94%20Levy%20Rates/Current%20Rates.aspx" target="_blank"&gt;levy rates list&lt;/a&gt;.&amp;#160; Rates were set up correctly for July 2020 forward.&amp;#160; For anything prior to July 2020, the new columns which were added in July 2020&amp;#160;to enable this calculator should&amp;#160;be completed&amp;#58;&amp;#160;&amp;#160;&lt;br&gt;&lt;/p&gt;&lt;ul style="text-align&amp;#58;left;"&gt;&lt;li&gt;​BaseRate&lt;br&gt;&lt;/li&gt;&lt;li&gt;BaseRateDwelling&lt;/li&gt;&lt;li&gt;ChargeControlChargeMultiplier&lt;br&gt;&lt;/li&gt;&lt;li&gt;Overrides&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="text-align&amp;#58;left;"&gt;In general the&amp;#160;boundaries will be&amp;#160;1 July to 30 June (annual indexation occurs each financial year), however there will be other date boundaries in play if a plan has been amended during the year.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-16</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-16</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-16</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Calculation Date</d:Title0>
+                <d:ID m:type="Edm.Int32">16</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-10T00:16:17Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-10T01:17:16Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>5.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">9ec72696-0bbb-4674-ab17-cd5d9cc18053</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;4&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">17</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass3EDA0D891FA94A7D934EB4FF84B51248"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;Shows the date used in the query which pulls the levies into the plan table.&amp;#160; It can&amp;#160;be different from the Calculation Date if the calculation date was edited, then the author decided not to update the plan table when prompted.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-17</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-17</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-17</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Effective Date</d:Title0>
+                <d:ID m:type="Edm.Int32">17</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-10T01:05:58Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-10T01:07:53Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>3.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">0aa30efc-f739-4d6c-9a47-9377c5efafb5</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;11&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">18</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass8CCEAA33858D48D8B29E33FC79195B16"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;Click this button to insert the calculated numbers for ETs, GFAs and Trips into the Input box for &lt;u&gt;all&amp;#160;&lt;/u&gt;rows in the current stage.&amp;#160;&amp;#160;&lt;/p&gt;&lt;p style="text-align&amp;#58;left;"&gt;Note&amp;#58;&lt;br&gt;&lt;/p&gt;&lt;ul style="text-align&amp;#58;left;"&gt;&lt;li&gt;The figures in the &lt;span class="ms-rteStyle-Accent1"&gt;Residential &lt;/span&gt;column are inserted into the &lt;span class="ms-rteStyle-Accent1"&gt;Res &lt;/span&gt;column and&amp;#160;used to determine whether a&amp;#160;contributions cap applies.&amp;#160; These figures can be entered directly if needed.&amp;#160; Click the &lt;span class="ms-rteStyle-Accent1"&gt;'Apply Cap&lt;/span&gt;' button to view the &lt;span class="ms-rteStyle-Accent1"&gt;Res &lt;/span&gt;column if it isn't already visible.&lt;/li&gt;&lt;li&gt;Only active rows in the&lt;span class="ms-rteStyle-Accent1"&gt; 'Available Plans' &lt;/span&gt;table will be included in the final calculation.&amp;#160; Double click a plan Title or a Levy row to activate/deactive that row.&amp;#160; Inactive rows are shown faded in comparison to active rows.&amp;#160; &lt;/li&gt;&lt;li&gt;All&amp;#160;TRCP rows are toggled 'inactive' by default - if a TRCP contribution applies, a sector must be activated&amp;#160;by double-clicking it.&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-18</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-18</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-18</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Autofill this stage</d:Title0>
+                <d:ID m:type="Edm.Int32">18</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-10T05:35:50Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-15T22:18:54Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>10.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">9d95c03b-9110-43f3-a257-c2256cf2ef8c</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;30&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">19</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClassCB6AC709A79E4812BB33366205E452D6"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;div id="instructions" class="dontPrint"&gt;&lt;h2 style="text-align&amp;#58;left;"&gt;Click the 'Show Guide' button for help as you go&lt;br&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2 style="text-align&amp;#58;left;"&gt;In summary&amp;#58; &lt;/h2&gt;&lt;ul&gt;&lt;li style="text-align&amp;#58;left;"&gt;Select options and fill in relevant input boxes.&lt;br&gt;&lt;/li&gt;&lt;li style="text-align&amp;#58;left;"&gt;Double-click any&amp;#160;&lt;span class="ms-rteThemeForeColor-9-0"&gt;'local area'&lt;/span&gt; plan&amp;#160;to activate it&amp;#160;instead of its&amp;#160;'shirewide' counterpart&amp;#58; only levies that aren't greyed out will be included in the calculation&lt;br&gt;&lt;/li&gt;&lt;li style="text-align&amp;#58;left;"&gt;If TRCP (CP04) is applicable, ensure that only one TRCP sector is activated&lt;/li&gt;&lt;li style="text-align&amp;#58;left;"&gt;click the 'auto-fill' button to insert stage totals into relevant inputs&lt;br&gt;&lt;/li&gt;&lt;li style="text-align&amp;#58;left;"&gt;Click the 'CALCULATE!' button to complete the calculation&lt;br&gt;&lt;/li&gt;&lt;li style="text-align&amp;#58;left;"&gt;if this is a multi-stage development, click the 'Duplicate&amp;#160;Stage' button, edit the stage names as necessary&amp;#160;and complete details for each stage.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2 style="text-align&amp;#58;left;"&gt;Notes&amp;#58;&lt;br&gt;&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li style="text-align&amp;#58;left;"&gt;If a contributions cap is applicable, you will be prompted to click CALCULATE! a second time to apply the calculated reduction.&lt;/li&gt;&lt;li style="text-align&amp;#58;left;"&gt;Adjustments to inputs can be directly made to Input&amp;#160;and Res&amp;#160;columns in the 'Available Plans' area, and/or to&amp;#160;the 'totals for stage' box at the top-right of the stage -&amp;#160;CALCULATE! must be clicked after any change to recalculate everything.&lt;br&gt;&lt;/li&gt;&lt;li style="text-align&amp;#58;left;"&gt;Click small info icons for more information about various parts of the calculator, or start the on-screen guide for assistance.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style="text-align&amp;#58;left;"&gt;&lt;a href="/prac/infrastructure/Infrastructure%20Charges%20Info/About%20Infrastructure%20Contributions.aspx" target="_blank" title="Click to learn more about infrastructure contributions"&gt;More about infrastructure contributions&lt;/a&gt;.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="text-align&amp;#58;left;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align&amp;#58;left;"&gt;&lt;span class="ms-rteStyle-Quote"&gt;Report bugs to &amp;#58; Linda Krausz 2729 &lt;a href="mailto&amp;#58;lindak@tweed.nsw.gov.au?subject=Infrastructure%20Calculator%20Bug&amp;amp;body=%27http&amp;#58;//tscps/prac/infrastructure/sitepages/infrastructure%20charges.aspx%27"&gt;lindak@tweed.nsw.gov.au&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align&amp;#58;left;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align&amp;#58;left;"&gt;&lt;a id="0&amp;#58;&amp;#58;Known bugs and outstanding questions|Known bugs and outstanding questions" class="ms-wikilink" href="/prac/infrastructure/Infrastructure%20Charges%20Info/Known%20bugs%20and%20outstanding%20questions.aspx"&gt;Known bugs and outstanding questions&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-19</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-19</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-19</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Instructions</d:Title0>
+                <d:ID m:type="Edm.Int32">19</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-10T06:09:38Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-08-05T02:45:58Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>29.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">139bd2ea-c7f1-4f43-98d7-c2e4d83822a2</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;5&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">20</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClassA3CD212774FB4970AFBFA85073389120"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;Uses the &lt;strong class="ms-rteStyle-Accent1"&gt;Input &lt;/strong&gt;value for each active item&amp;#160;and multiplies it by the levy &lt;strong class="ms-rteStyle-Accent1"&gt;Rate&lt;/strong&gt;.&amp;#160; The first calculation pass also calculates the cap reduction percentage, if any&amp;#160;- to apply the cap reduction %&amp;#160;to the result, &lt;span style="text-decoration&amp;#58;underline;"&gt;click the &lt;strong class="ms-rteStyle-Accent1"&gt;Calculate Button &lt;/strong&gt;a second time&lt;/span&gt;.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-20</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-20</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-20</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0>Calculate Button</d:Title0>
+                <d:ID m:type="Edm.Int32">20</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-14T23:11:34Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-07-14T23:16:21Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>4.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">d20c77ac-89d3-435a-ab4c-b33331a1c703</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;6&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">21</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass744FED015B394BCBA843C18E155FC557"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;p&gt;Infrastructure contributions are levied on all&amp;#160;new development which will result in more demand for&amp;#160;our&amp;#160;amenities and services such as roads, libraries and open space.&amp;#160; A summary of what contributions are, and why and how we levy them is available on our &lt;a href="https&amp;#58;//www.tweed.nsw.gov.au/s94#S94"&gt;website&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;&lt;p&gt;In practice, contributions required by individual developments are documented&amp;#160;when a development application is assessed by Council's Planning and Development staff and the&amp;#160;development consent is issued.&amp;#160;&amp;#160;the development consent will include a condition detailing the contributions to be paid.&amp;#160; A payment sheet (fee sheet) will also be generated and included with the consent.&amp;#160; Contribution amounts to be paid&amp;#160;will also be entered into CI at that time.&amp;#160;&amp;#160;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Depending on policies in effect, Council will require payment of these contributions at a specific&amp;#160;time, either before issue of a Construction Certificate, Occupation Certificate, or Subdivision Certificate.&amp;#160;&amp;#160;&lt;br&gt;&lt;/p&gt;&lt;p&gt;For many years, planners who need to work out contributions to be paid would enter ETs, Trips, Ha or GFA into a coded Excel&amp;#160;spreadsheet, which would calculate the totals payable, apply a cap if needed,&amp;#160;and enable generation of the consent condition and the fee sheet.&amp;#160; The new web-based&amp;#160;calculator uses many of the same coding/logic principles as the original Excel sheet, with the following enhancements&amp;#58;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The cap percentage is derived and applied by a second calculation pass (previously cap amounts were derived by an incrementally adjusting loop, the total cap % was not recorded)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Capped and non-capped elements can be included in the same calculation stage&lt;br&gt;&lt;/li&gt;&lt;li&gt;Commercial development can be combined with&amp;#160;residential and/or tourist development in the same calculation stage (previously commercial components would be handled manually or calculated separately)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Selecting an LAC road&amp;#160;contribution (Local Area Contribution) will auto-select its corresponding sector contribution (both are required, and levied separately in CI*)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Excel data table&amp;#160;output required by the current condition template is still&amp;#160;generated, with additional data sheets providing&amp;#160;more detail&lt;br&gt;&lt;/li&gt;&lt;li&gt;Saved calculations can be imported back to re-use&lt;br&gt;&lt;/li&gt;&lt;li&gt;An onscreen guide is available to assist users to complete their calculation&lt;br&gt;&lt;/li&gt;&lt;li&gt;Fee Sheet and Condition directly to MS Word from the calculator.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;* note that the LAC contribution listed in the TRCP&amp;#160;combines both figures, but is a combination of a local area contribution PLUS the relevant sector contribution, and are accounted for separately in CI accordingly.&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="/prac/infrastructure/Lists/Calculation%20Helper/Tiles.aspx"&gt;Link to Helper Tiles&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-21</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-21</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-21</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0 m:null="true" />
+                <d:ID m:type="Edm.Int32">21</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-07-29T01:31:20Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2020-09-09T22:08:48Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>5.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">eba8b95d-e0d7-4c9e-adfd-6ed42ac08c98</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;5&quot;">
+        <id>Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)</id>
+        <category term="SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)/ParentList" />
+        <title />
+        <updated>2021-11-15T03:51:33Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">22</d:Id>
+                <d:ContentTypeId>0x01010800BB8BC91CFB66AB41886AB9581E23D64B</d:ContentTypeId>
+                <d:WikiField>&lt;div class="ExternalClass4B3249C451A84597B07B780BDE845977"&gt;&lt;table id="layoutsTable" style="width&amp;#58;100%;"&gt;&lt;tbody&gt;&lt;tr style="vertical-align&amp;#58;top;"&gt;&lt;td style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-outer" style="width&amp;#58;100%;"&gt;&lt;div class="ms-rte-layoutszone-inner" aria-label="Rich text editor"&gt;&lt;h2&gt;Rounding&amp;#58;&lt;/h2&gt;&lt;p&gt;I dimly recall rounding issues with regards to spreadsheet –v- CI in the past, it would be good to run some tests to see if the results of this calculator are going to cause similar issues in CI.&amp;#160; &lt;/p&gt;&lt;p style="text-decoration&amp;#58;line-through;"&gt;In its current iteration, there's no rounding happening until the very end (per ET charges in the calculator are being calculated by multiplying the 'per person' rate, hence the decimals, even though the rates recorded in plans&amp;#160;are rounded, except for CP 18 rates).&amp;#160; &lt;/p&gt;&lt;p&gt;Rounding on the Final Total column is now&amp;#160;set at 3 decimal places this is because rounding too early meant the the capped&amp;#160;total per lot was&amp;#160;sometimes out by some cents if individual levy&amp;#160;amounts were rounded before totalling.&lt;br&gt;&lt;/p&gt;&lt;p&gt;I've spoken to Paul Morgan about rounding generally and the issues it has caused, we may take a different approach to it in the plans as part of his review.&amp;#160; It remains to be seen whether Planners have any issues with the&amp;#160;new approach to rounding.&lt;br&gt;&lt;/p&gt;&lt;h2&gt;Excel File&amp;#58;&lt;br&gt;&lt;/h2&gt;&lt;p&gt;The Excel file comes out with 3 tabs, the first tab should be exactly the same as the data file used to generate the consent condition, with rounded values, hence it can be used to generate the conditions and feesheet by the old method.&amp;#160; The 2&lt;sup&gt;nd&lt;/sup&gt; tab includes more detail, and the 3&lt;sup&gt;rd&lt;/sup&gt; tab combines multiple stages together, if they exist.&lt;br&gt;&lt;/p&gt;&lt;h2&gt;Word Document&amp;#58;&lt;/h2&gt;&lt;p&gt;To generate the condition text, you can either use the excel file above as usual, or create a Word document directly from the calculator.&amp;#160; The document&amp;#160;contains both the condition and the fee sheet (table only) directly from the calculation.&amp;#160; Again, figures here are rounded, except for CP18, and there could be discrepancies which arise from this.&amp;#160; The fee sheet table is 'close' to the current Word original in layout and style,&amp;#160;but not exactly the same, however if you paste the table underneath the headings in the document generated out of CI, it will take on the same formatting and line up properly.&amp;#160; &amp;#160;Adjustments to the Word template(s) containing the fee sheet may be warranted.&lt;br&gt;&lt;/p&gt;&lt;h2&gt;Save to SP&amp;#58;&lt;/h2&gt;&lt;p&gt;With this checkbox checked on, a copy of the calculation will be saved to SharePoint every time an Excel file or Word document is generated. &amp;#160;&amp;#160;Calculations saved to SharePoint can be reimported.&amp;#160; Since the current calculator always saves a copy of the data, wondering if keeping this option to turn off saving to SP is a good idea.&amp;#160; It became necessary while testing because saving a copy every time was creating A LOT of copies.&amp;#160; Another alternative could be to generate a unique id for the session that can be recalled so that copies of the same calculation are saved over previous copies.&amp;#160; Keeping all versions in SP would overcome any situation where copying over the top of a previous save was NOT desirable, requires more thought.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;#160;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span id="layoutsData" style="display&amp;#58;none;"&gt;false,false,1&lt;/span&gt;&lt;/div&gt;</d:WikiField>
+                <d:OData__dlc_DocId>NKVJFX2TJXEK-1287875411-22</d:OData__dlc_DocId>
+                <d:OData__dlc_DocIdUrl m:type="SP.FieldUrlValue">
+                    <d:Description>NKVJFX2TJXEK-1287875411-22</d:Description>
+                    <d:Url>http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-22</d:Url>
+                </d:OData__dlc_DocIdUrl>
+                <d:PageType m:null="true" />
+                <d:Title0 m:null="true" />
+                <d:ID m:type="Edm.Int32">22</d:ID>
+                <d:Created m:type="Edm.DateTime">2020-08-05T02:46:04Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">21</d:AuthorId>
+                <d:Modified m:type="Edm.DateTime">2021-03-31T04:59:36Z</d:Modified>
+                <d:EditorId m:type="Edm.Int32">21</d:EditorId>
+                <d:OData__CopySource m:null="true" />
+                <d:CheckoutUserId m:null="true" />
+                <d:OData__UIVersionString>4.0</d:OData__UIVersionString>
+                <d:GUID m:type="Edm.Guid">12ddadf4-a047-415f-a6bc-f421b50bd665</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+</feed>

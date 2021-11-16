@@ -1,0 +1,418 @@
+{
+   "d": {
+       "results": [
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(1)",
+                   "etag": "\"2\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 1,
+               "WikiField": "<div class=\"ExternalClassFEA9F6A62667469293484AF66343B749\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr><td><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;99.9%;\"><div class=\"ms-rte-layoutszone-inner\" style=\"min-height&#58;60px;word-wrap&#58;break-word;\"><strong>How to use this wiki library</strong><br>You can use this wiki library to share knowledge, brainstorm ideas, collaborate with your team on a design, create an instruction guide, build an encyclopedia of knowledge, or just write down daily information in an easily accessible and modifiable format.<br><br><strong>Editing pages</strong><br>To edit this page, click on the <strong>Edit Page</strong> icon at the top of the page. To see all available commands, click on the <strong>Page</strong> tab. When you are editing, you can type text onto the page or insert tables and pictures. To stop editing, click the <strong>Save</strong> button at the top of the page. If you leave the page while editing, you will be prompted to save your changes.<br><br><strong>Creating wiki links</strong><br>You can link to another page in this wiki library by enclosing the name of the page in double brackets. When you type [[, the wiki will suggest page names that start with what you've typed. You can select one of these pages using the arrow keys or the mouse, or you can type in a new name. If you type in a new name, it will make a link to a page which has not yet been created. Links are finished by typing ]]. If you are linking to a page in a subfolder or an item in another list, you can press tab to add the selected suggested item to your link without closing the link.<br><br>You can link to many objects in SharePoint, not just pages. Here are some examples of links&#58;<br>[[Dogs]] &#58; A link to a page named Dogs in the same folder.<br>[[Animals/Dogs]] &#58; A link to a page named Dogs in a subfolder called Animals.<br>[[List&#58;Announcements/Welcome]] &#58; A link to the item called Welcome in the Announcements list on this site.<br><br>To create a link to a page and have the link display different text than the page name, type a pipe character (|) after the page name, and then type the display text. For example, type [[Home|Home Page]] to create the link labeled Home Page that points to the page named Home.<br><br>To display double opening or closing brackets without making a link, type a backslash before the two brackets. For example, \\[[ or \\]].<br><br><strong>Creating pages</strong><br>There are two main ways to create a new page in your wiki library&#58;<br><ol><li><u>Create a link to a page which does not exist and then click on it to create the page</u>&#58;<br>This is the recommended way to create a page because it is easier for people to find the page when another page links to it. Links to pages that do not yet exist have a dashed underline.<br></li><br><li><u>Create a page that is not linked to any other</u>&#58;<br>In the <strong>Settings</strong> menu, click <strong>Add a page</strong>. This will ask you for a name and then create that page in the current wiki library.</li></ol><br><strong>Managing your wiki library</strong><br>You can manage the pages in your wiki library by clicking <strong>View All Pages</strong> on the <strong>Page</strong> tab of any page in the library.<br><br><strong>Restoring a page</strong><br>If you need to restore a previous version of a page, click <strong>Previous Versions</strong> in the <strong>Page</strong> tab at the top of the page. You can then click on any of the versions in the quick launch to view the page as it existed at that time. If you want to restore to a version, select it and click <strong>Restore this version</strong> in the toolbar.<br><br><strong>Viewing incoming links</strong><br>You can see which pages link to the current page by clicking <strong>Incoming Links</strong> at the top of the page. This will show you any pages which link to this page.<br><br><br>For more information about using Microsoft SharePoint Foundation-based wiki libraries, click Help on any Microsoft SharePoint Foundation page.<div></div></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": null,
+               "Title0": null,
+               "ID": 1
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(2)",
+                   "etag": "\"4\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 2,
+               "WikiField": "<div class=\"ExternalClass13C932AB855243B7846978FC03F379E8\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><ul><li><a id=\"0&#58;&#58;Instructions|Instructions\" class=\"ms-wikilink\" href=\"/prac/infrastructure/Infrastructure%20Charges%20Info/Instructions.aspx\">Instructions</a><br></li><li><a href=\"/prac/infrastructure/Infrastructure%20Charges%20Info/Forms/AllPages.aspx\">All pages</a><br></li><li><a href=\"/prac/infrastructure/SitePages/Infrastructure%20Calculation%20Wiki%20Export.aspx\" target=\"_blank\">Export Page - shows all entries together</a><br></li></ul><div><br></div></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-2",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-2"
+               },
+               "Title0": null,
+               "ID": 2
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(3)",
+                   "etag": "\"3\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 3,
+               "WikiField": "<div class=\"ExternalClass3432399AB0E74AB1A5A8E8B831C0256B\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>This is general documentation for the contribution&#160;calculation page at&#160;<a href=\"/prac/infrastructure/SitePages/Infrastructure%20Charges.aspx\">http&#58;//tscps/prac/infrastructure/SitePages/Infrastructure%20Charges.aspx</a><br></p><p>The page is generated by a script called infrastructureCharges.js which is saved in /prac/infrastructure/siteassets/scripts.<br></p><p>It relies on up to date information saved in the following lists&#58;</p><ul><li><a href=\"/prac/infrastructure/Lists/S94%20Plans/AllItems.aspx\">Plan List</a></li><li><a href=\"/prac/infrastructure/Lists/S94%20Levy%20Rates/Current%20Rates.aspx\">S94 Levy Rates</a><br></li></ul><div>The Levy Rates list has been in existence for some time, however in 2020 it was updated to include a few additional columns to enable it to be used in the new&#160;calcuator.<br></div><div>The columns added were&#58; BaseRate, 1ETBaseRate, BaseRateDwelling, ChargeControl, ChargeMultiplier, Overrides.&#160;<br></div><div><br></div><div>Columns which are essential to be maintained, and are utilised by the script are&#58; Amount, Title, Effective/Ended, Per, Dwelling, Applies to.<br></div><div><br></div><div>Note that the script is unable to read 'calculated' columns such as 1ET and 1ETBaseRate - therefore&#160;these values are recalculated within the script itself.<br><br></div><div><strong>FURTHER WORK NEEDED&#58;&#160; </strong>The script also reads in data from the Calculation Data list - this list was imported from the original calculation spreadsheet, and was used as a reference, however it is not involved in generating the charge, so could in future be removed. HOWEVER, there is a known issue in matching rounding so that calculations match CI's calculation result, so the S94 Levy Rates list may need further adjustment to align the result better with what can be reproduced in CI.<br></div><p><br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-3",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-3"
+               },
+               "Title0": null,
+               "ID": 3
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(4)",
+                   "etag": "\"21\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 4,
+               "WikiField": "<div class=\"ExternalClass7B0ADC7A24D64808B0165D3F9C8ADF05\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><h2 style=\"text-align&#58;left;\">Record the number of bedrooms&#58;<br></h2><p>The starting point for each levy calculation is the 'cost per person', however most&#160;infrastructure&#160;charges are&#160;set up in CI as the cost 'per one ET' (Equivalent Tenement).&#160; CI multiplies&#160;this charge by the number of&#160;ETs&#160;(which are manually&#160;entered when the charge is raised).&#160; &#160;Use this section to calculate the number of ETs from the number of bedrooms entered.&#160; The calculator uses&#160;the multipliers shown below to convert number of bedrooms into ETs.<br></p><table cellspacing=\"0\" width=\"100%\" class=\"ms-rteTable-default\"><tbody><tr class=\"ms-rteTableHeaderRow-default\"><th class=\"ms-rteTableHeaderEvenCol-default\" rowspan=\"1\" colspan=\"1\" style=\"width&#58;33.3333%;\">​</th><th class=\"ms-rteTableHeaderOddCol-default\" rowspan=\"1\" colspan=\"1\" style=\"width&#58;33.3333%;text-align&#58;center;\">​​Number of Persons<br>(Refer to plans)</th><th class=\"ms-rteTableHeaderEvenCol-default\" rowspan=\"1\" colspan=\"1\" style=\"width&#58;33.3333%;\">\n            <p style=\"text-align&#58;center;\">​Number of ET's/bedroom (2.4/Number of Persons)</p></th></tr><tr class=\"ms-rteTableOddRow-default\"><td class=\"ms-rteTableEvenCol-default\">​1 bedroom<br></td><td class=\"ms-rteTableOddCol-default\" style=\"text-align&#58;center;\">​1.3</td><td class=\"ms-rteTableEvenCol-default\" style=\"text-align&#58;center;\">​0.541666667</td></tr><tr class=\"ms-rteTableEvenRow-default\"><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\">​2 bedroom</td><td class=\"ms-rteTableOddCol-default\" rowspan=\"1\" style=\"text-align&#58;center;\">​1.7</td><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\" style=\"text-align&#58;center;\">​0.708333333</td></tr><tr class=\"ms-rteTableOddRow-default\"><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\">​3 bedroom</td><td class=\"ms-rteTableOddCol-default\" rowspan=\"1\" style=\"text-align&#58;center;\">​2.1</td><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\" style=\"text-align&#58;center;\">​0.875</td></tr><tr class=\"ms-rteTableEvenRow-default\"><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\">​4+ bedroom</td><td class=\"ms-rteTableOddCol-default\" rowspan=\"1\" style=\"text-align&#58;center;\">​2.4</td><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\" style=\"text-align&#58;center;\">​1</td></tr></tbody></table><h2 style=\"text-align&#58;left;\">Number of trips are calculated from the number of ETs&#58;</h2><p style=\"text-align&#58;left;\">For any residential development, the number of trips/ET = 6.5, therefore the calculated trips will be 6.5 x&#160;the total number of ETs.&#160; &#160;The number of trips will be recalculated whenever any 'bedrooms' input box is changed.</p><h2 style=\"text-align&#58;left;\">Multidwelling&#160;housing&#58;</h2><p style=\"text-align&#58;left;\">Checking multidwelling housing reduces the trips/ET&#160; from 6.5&#160;to 3.9.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-4",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-4"
+               },
+               "Title0": "Development Type-Residential",
+               "ID": 4
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(5)",
+                   "etag": "\"4\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 5,
+               "WikiField": "<div class=\"ExternalClass98666A5F98A54FD0BBEC9A9161ACF273\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>Enter the number of lots, trips will be calculated at the rate of 6.5 trips/lot.<br></p><p>Note&#58; infrastructure charges in CI are set up to calculate 'per ET' where (in most cases) 1 subdivision lot = 1ET.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-5",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-5"
+               },
+               "Title0": "Development Type-Subdivision",
+               "ID": 5
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(6)",
+                   "etag": "\"12\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 6,
+               "WikiField": "<div class=\"ExternalClassB69720D676E74A14B018C7087570D256\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><h2>Some inputs must be calculated manually<br></h2><p>Refer to the relevant plan(s) and/or the Traffic Engineer&#160;to determine what the value of ETs,&#160;GFA and Trips should be for this development.&#160; Note the following regarding specific plans&#58;<br></p><table cellspacing=\"0\" width=\"100%\" class=\"ms-rteTable-default\" style=\"height&#58;162px;\"><tbody><tr class=\"ms-rteTableEvenRow-default\"><td class=\"ms-rteTableEvenCol-default\" style=\"width&#58;30%;text-align&#58;left;\">​CP04 - Tweed Road Contribution Plan<br></td><td class=\"ms-rteTableOddCol-default\" style=\"width&#58;50%;text-align&#58;left;\">​includes&#160;a detailed table of development types which must be used to work out the number of trips applicable to the development.&#160; The number of trips for commercial development must be calculated and entered manually.<br></td></tr><tr class=\"ms-rteTableOddRow-default\"><td class=\"ms-rteTableEvenCol-default\" style=\"text-align&#58;left;width&#58;30%;\">​CP18 - Council Admin Facilities<br></td><td class=\"ms-rteTableOddCol-default\" style=\"text-align&#58;left;\">​includes rates for GFA for commercial development.&#160; You can enter the GFA - the result&#160;will be converted back to ETs for inputting into CI.&#160; \n            <br></td></tr><tr class=\"ms-rteTableEvenRow-default\"><td class=\"ms-rteTableEvenCol-default\" rowspan=\"1\" style=\"text-align&#58;left;width&#58;30%;\">​CP23 - Offsite Parking<br></td><td class=\"ms-rteTableOddCol-default\" rowspan=\"1\"><div style=\"text-align&#58;left;\">optional charge available only to developments in identified business zones, where, if deemed acceptable&#160;by Council's Traffic Engineer, the developer may elect to pay a contribution per unsupplied parking space rather than providing parking onsite.&#160; </div><div style=\"text-align&#58;left;\">\n               <br>\n            </div><div style=\"text-align&#58;left;\">This plan will not apply to every commercial development, therefore it is inactive by default.&#160; Double-click the Plan/Levy if required.<br></div></td></tr></tbody></table><h2>Commercial Levies<br></h2><p>\n   <a href=\"/prac/infrastructure/Lists/S94%20Levy%20Rates/Current%20Rates.aspx#InplviewHashbee3f9bc-0e9f-4356-bdb9-561d1f3209bf=FilterField1%3DApplies%255Fx0020%255Fto-FilterValue1%3DCommercial\" target=\"_blank\">Click here</a>&#160;to check the latest commercial levies, or check the&#160;'show extras' checkbox on the calculator to see which plans are applicable to commercial development.<br></p><h2>Discounts<br></h2><p>Contribution discounts may be applicable under Council's <a href=\"https&#58;//www.tweed.nsw.gov.au/Business/SupportServices\">Business Investment Policy</a> if the development is employment generating or an eligible business.&#160; Check the policy&#160;for details about these discounts, and if relevant, enter the values in this section.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-6",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-6"
+               },
+               "Title0": "Development Type-Commercial",
+               "ID": 6
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(7)",
+                   "etag": "\"7\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 7,
+               "WikiField": "<div class=\"ExternalClassA7ECE677687D4024BEDB3D3CEEA61704\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><h2>Slight difference between 'Residential' and 'Tourist' development<br></h2><p>Tourist development does not pay a contribution for Structured Open Space and is not eligible for a multi-dwelling housing trip discount.&#160; Otherwise the calculations are based on the number of bedrooms,&#160;similar to&#160;Residential development.</p><h2>Does Drainage apply to tourist development?<br></h2><p><em>At the present time (July 2020) there is a different treatment of 'Drainage' between CP01 (Banora Point) and CP07 (West Kingscliff) and this needs to be confirmed/clarified.</em><br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-7",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-7"
+               },
+               "Title0": "Development Type-Tourist",
+               "ID": 7
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(8)",
+                   "etag": "\"5\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 8,
+               "WikiField": "<div class=\"ExternalClass7655B91347E44A2DB66535A3EBD92F00\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>For unusual developments which follow non-standard&#160;rules, select plans and&#160;complete the inputs directly below.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-8",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-8"
+               },
+               "Title0": "Development Type-Other",
+               "ID": 8
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(9)",
+                   "etag": "\"8\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 9,
+               "WikiField": "<div class=\"ExternalClass775FB79D800B4219BF185729AD78FB34\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\">Enter the (negative) number of ETs, GFA and/or Trips that represent credits due to this development.&#160; This will be deducted from the full number of ETs applied to each active plan.<div><br></div><div>If you type in a positive number, it will be converted to its negative equivalent.&#160; If you want to enter&#160;a number less than 1 to be converted to its negative equivalent, omit the preceding &quot;0&quot;, eg type .5 to enter -0.5.</div></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-9",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-9"
+               },
+               "Title0": "Development Type-Credits",
+               "ID": 9
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(10)",
+                   "etag": "\"5\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 10,
+               "WikiField": "<div class=\"ExternalClass015174CAC8374B08A9F8AC3A6C723CA8\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>The maximum allowble contribution per lot is capped by the State Government.<br></p><p>As of July 2020, the contribution cap of $30k for greenfield development&#160;sites (see <a href=\"/prac/infrastructure/Reference/Ministers%20Direction%20September%202010/Greenfield%20Development%20Areas_20100909.pdf\" target=\"_blank\">map of approved sites</a>) and $20k for other sites has been in place for around 10 years.&#160;&#160;<br></p><p><em>The State Government are currently reviewing the cap and it may be raised in the near future.</em><br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-10",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-10"
+               },
+               "Title0": "Apply Cap",
+               "ID": 10
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(11)",
+                   "etag": "\"6\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 11,
+               "WikiField": "<div class=\"ExternalClass401AEDF26C714851927C04BCE992799E\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\">Check <span class=\"ms-rteStyle-Accent1\"><strong>hide 0's&#160;</strong></span>on to hide every row with a zero value, after entering input values against&#160;items&#160;that will be levied.<br></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-11",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-11"
+               },
+               "Title0": "Checkbox-Hide Zeros",
+               "ID": 11
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(12)",
+                   "etag": "\"10\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 12,
+               "WikiField": "<div class=\"ExternalClassC81DC94DB4394C1499FB030980F9F160\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p style=\"text-align&#58;left;\">Check/uncheck <strong class=\"ms-rteStyle-Accent1\">Hide Inactive</strong> to hide/show all greyed out (inactive)&#160;rows.&#160; &#160;</p><p style=\"text-align&#58;left;\">With inactive rows showing, double-click an individual plan title, and/or&#160;levy row to reactivate that row.&#160;&#160;<br></p><p style=\"text-align&#58;left;\">Rows are automatically activated/deactivated depending on the development type options selected, however this status can be manually&#160;overridden by double-clicking.<br></p><p style=\"text-align&#58;left;\">When a local plan which overrides a shirewide plan is selected, eg CP01, the relevant shirewide plans will be deactivated automatically.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-12",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-12"
+               },
+               "Title0": "Checkbox-Hide Inactive",
+               "ID": 12
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(13)",
+                   "etag": "\"5\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 13,
+               "WikiField": "<div class=\"ExternalClass747BBF6C54244BE09C18BFD838C99953\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\">Check the <strong class=\"ms-rteStyle-Accent1\">show extras</strong> checkbox to view additional data for each levy such as 'base rate',&#160;'applies to' and 'charge control'.</div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-13",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-13"
+               },
+               "Title0": "Checkbox-Show Extras",
+               "ID": 13
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(14)",
+                   "etag": "\"5\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 14,
+               "WikiField": "<div class=\"ExternalClassAB8A929CEA744F37B04D3008468E034D\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\">A development will normally be levied CP04 (Tweed Road Contribution Plan) contributions for one sector only.&#160; Check this checkbox to quickly deactivate all sectors, then double-click the sector that applies to this development to activate it.<br></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-14",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-14"
+               },
+               "Title0": "Checkbox-Deactivate CP04 Sectors",
+               "ID": 14
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(15)",
+                   "etag": "\"5\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 15,
+               "WikiField": "<div class=\"ExternalClass3D38E895D1074E228414051A5CE55AD3\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\">The default&#160;Stage Name can be typed over if necessary.<br></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-15",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-15"
+               },
+               "Title0": "Stage Name",
+               "ID": 15
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(16)",
+                   "etag": "\"6\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 16,
+               "WikiField": "<div class=\"ExternalClass8B12D6922ED44B7D886E26CEF66621EA\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p style=\"text-align&#58;left;\">This can be altered to represent a date in the past or the future (if future rates have been entered), however there needs to be suitably configured entries in the <a href=\"/prac/infrastructure/Lists/S94%20Levy%20Rates/Current%20Rates.aspx\" target=\"_blank\">levy rates list</a>.&#160; Rates were set up correctly for July 2020 forward.&#160; For anything prior to July 2020, the new columns which were added in July 2020&#160;to enable this calculator should&#160;be completed&#58;&#160;&#160;<br></p><ul style=\"text-align&#58;left;\"><li>​BaseRate<br></li><li>BaseRateDwelling</li><li>ChargeControlChargeMultiplier<br></li><li>Overrides<br></li></ul><p style=\"text-align&#58;left;\">In general the&#160;boundaries will be&#160;1 July to 30 June (annual indexation occurs each financial year), however there will be other date boundaries in play if a plan has been amended during the year.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-16",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-16"
+               },
+               "Title0": "Calculation Date",
+               "ID": 16
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(17)",
+                   "etag": "\"4\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 17,
+               "WikiField": "<div class=\"ExternalClass3EDA0D891FA94A7D934EB4FF84B51248\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>Shows the date used in the query which pulls the levies into the plan table.&#160; It can&#160;be different from the Calculation Date if the calculation date was edited, then the author decided not to update the plan table when prompted.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-17",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-17"
+               },
+               "Title0": "Effective Date",
+               "ID": 17
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(18)",
+                   "etag": "\"11\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 18,
+               "WikiField": "<div class=\"ExternalClass8CCEAA33858D48D8B29E33FC79195B16\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>Click this button to insert the calculated numbers for ETs, GFAs and Trips into the Input box for <u>all&#160;</u>rows in the current stage.&#160;&#160;</p><p style=\"text-align&#58;left;\">Note&#58;<br></p><ul style=\"text-align&#58;left;\"><li>The figures in the <span class=\"ms-rteStyle-Accent1\">Residential </span>column are inserted into the <span class=\"ms-rteStyle-Accent1\">Res </span>column and&#160;used to determine whether a&#160;contributions cap applies.&#160; These figures can be entered directly if needed.&#160; Click the <span class=\"ms-rteStyle-Accent1\">'Apply Cap</span>' button to view the <span class=\"ms-rteStyle-Accent1\">Res </span>column if it isn't already visible.</li><li>Only active rows in the<span class=\"ms-rteStyle-Accent1\"> 'Available Plans' </span>table will be included in the final calculation.&#160; Double click a plan Title or a Levy row to activate/deactive that row.&#160; Inactive rows are shown faded in comparison to active rows.&#160; </li><li>All&#160;TRCP rows are toggled 'inactive' by default - if a TRCP contribution applies, a sector must be activated&#160;by double-clicking it.<br></li><br></ul></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-18",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-18"
+               },
+               "Title0": "Autofill this stage",
+               "ID": 18
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(19)",
+                   "etag": "\"30\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 19,
+               "WikiField": "<div class=\"ExternalClassCB6AC709A79E4812BB33366205E452D6\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><div id=\"instructions\" class=\"dontPrint\"><h2 style=\"text-align&#58;left;\">Click the 'Show Guide' button for help as you go<br></h2><p></p><p></p><h2 style=\"text-align&#58;left;\">In summary&#58; </h2><ul><li style=\"text-align&#58;left;\">Select options and fill in relevant input boxes.<br></li><li style=\"text-align&#58;left;\">Double-click any&#160;<span class=\"ms-rteThemeForeColor-9-0\">'local area'</span> plan&#160;to activate it&#160;instead of its&#160;'shirewide' counterpart&#58; only levies that aren't greyed out will be included in the calculation<br></li><li style=\"text-align&#58;left;\">If TRCP (CP04) is applicable, ensure that only one TRCP sector is activated</li><li style=\"text-align&#58;left;\">click the 'auto-fill' button to insert stage totals into relevant inputs<br></li><li style=\"text-align&#58;left;\">Click the 'CALCULATE!' button to complete the calculation<br></li><li style=\"text-align&#58;left;\">if this is a multi-stage development, click the 'Duplicate&#160;Stage' button, edit the stage names as necessary&#160;and complete details for each stage.<br></li></ul><h2 style=\"text-align&#58;left;\">Notes&#58;<br></h2><div><ul><li style=\"text-align&#58;left;\">If a contributions cap is applicable, you will be prompted to click CALCULATE! a second time to apply the calculated reduction.</li><li style=\"text-align&#58;left;\">Adjustments to inputs can be directly made to Input&#160;and Res&#160;columns in the 'Available Plans' area, and/or to&#160;the 'totals for stage' box at the top-right of the stage -&#160;CALCULATE! must be clicked after any change to recalculate everything.<br></li><li style=\"text-align&#58;left;\">Click small info icons for more information about various parts of the calculator, or start the on-screen guide for assistance.<br></li></ul><div style=\"text-align&#58;left;\"><a href=\"/prac/infrastructure/Infrastructure%20Charges%20Info/About%20Infrastructure%20Contributions.aspx\" target=\"_blank\" title=\"Click to learn more about infrastructure contributions\">More about infrastructure contributions</a>.<br></div></div><div style=\"text-align&#58;left;\"><br></div><div style=\"text-align&#58;left;\"><span class=\"ms-rteStyle-Quote\">Report bugs to &#58; Linda Krausz 2729 <a href=\"mailto&#58;lindak@tweed.nsw.gov.au?subject=Infrastructure%20Calculator%20Bug&amp;body=%27http&#58;//tscps/prac/infrastructure/sitepages/infrastructure%20charges.aspx%27\">lindak@tweed.nsw.gov.au</a></span><br></div><div style=\"text-align&#58;left;\"><br></div><div style=\"text-align&#58;left;\"><a id=\"0&#58;&#58;Known bugs and outstanding questions|Known bugs and outstanding questions\" class=\"ms-wikilink\" href=\"/prac/infrastructure/Infrastructure%20Charges%20Info/Known%20bugs%20and%20outstanding%20questions.aspx\">Known bugs and outstanding questions</a><br></div></div></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-19",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-19"
+               },
+               "Title0": "Instructions",
+               "ID": 19
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(20)",
+                   "etag": "\"5\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 20,
+               "WikiField": "<div class=\"ExternalClassA3CD212774FB4970AFBFA85073389120\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>Uses the <strong class=\"ms-rteStyle-Accent1\">Input </strong>value for each active item&#160;and multiplies it by the levy <strong class=\"ms-rteStyle-Accent1\">Rate</strong>.&#160; The first calculation pass also calculates the cap reduction percentage, if any&#160;- to apply the cap reduction %&#160;to the result, <span style=\"text-decoration&#58;underline;\">click the <strong class=\"ms-rteStyle-Accent1\">Calculate Button </strong>a second time</span>.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-20",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-20"
+               },
+               "Title0": "Calculate Button",
+               "ID": 20
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(21)",
+                   "etag": "\"6\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 21,
+               "WikiField": "<div class=\"ExternalClass744FED015B394BCBA843C18E155FC557\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><p>Infrastructure contributions are levied on all&#160;new development which will result in more demand for&#160;our&#160;amenities and services such as roads, libraries and open space.&#160; A summary of what contributions are, and why and how we levy them is available on our <a href=\"https&#58;//www.tweed.nsw.gov.au/s94#S94\">website</a>.<br></p><p>In practice, contributions required by individual developments are documented&#160;when a development application is assessed by Council's Planning and Development staff and the&#160;development consent is issued.&#160;&#160;the development consent will include a condition detailing the contributions to be paid.&#160; A payment sheet (fee sheet) will also be generated and included with the consent.&#160; Contribution amounts to be paid&#160;will also be entered into CI at that time.&#160;&#160;<br></p><p>Depending on policies in effect, Council will require payment of these contributions at a specific&#160;time, either before issue of a Construction Certificate, Occupation Certificate, or Subdivision Certificate.&#160;&#160;<br></p><p>For many years, planners who need to work out contributions to be paid would enter ETs, Trips, Ha or GFA into a coded Excel&#160;spreadsheet, which would calculate the totals payable, apply a cap if needed,&#160;and enable generation of the consent condition and the fee sheet.&#160; The new web-based&#160;calculator uses many of the same coding/logic principles as the original Excel sheet, with the following enhancements&#58;<br></p><ul><li>The cap percentage is derived and applied by a second calculation pass (previously cap amounts were derived by an incrementally adjusting loop, the total cap % was not recorded)<br></li><li>Capped and non-capped elements can be included in the same calculation stage<br></li><li>Commercial development can be combined with&#160;residential and/or tourist development in the same calculation stage (previously commercial components would be handled manually or calculated separately)<br></li><li>Selecting an LAC road&#160;contribution (Local Area Contribution) will auto-select its corresponding sector contribution (both are required, and levied separately in CI*)<br></li><li>Excel data table&#160;output required by the current condition template is still&#160;generated, with additional data sheets providing&#160;more detail<br></li><li>Saved calculations can be imported back to re-use<br></li><li>An onscreen guide is available to assist users to complete their calculation<br></li><li>Fee Sheet and Condition directly to MS Word from the calculator.<br></li></ul><p><em>* note that the LAC contribution listed in the TRCP&#160;combines both figures, but is a combination of a local area contribution PLUS the relevant sector contribution, and are accounted for separately in CI accordingly.</em><br></p><p><a href=\"/prac/infrastructure/Lists/Calculation%20Helper/Tiles.aspx\">Link to Helper Tiles</a>.<br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-21",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-21"
+               },
+               "Title0": null,
+               "ID": 21
+           },
+           {
+               "__metadata": {
+                   "id": "Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)",
+                   "uri": "http://tscps/prac/infrastructure/_api/Web/Lists(guid'8da56e83-8f44-42ef-936d-9a2b096ee1a7')/Items(22)",
+                   "etag": "\"5\"",
+                   "type": "SP.Data.Infrastructure_x0020_Charges_x0020_InfoItem"
+               },
+               "Id": 22,
+               "WikiField": "<div class=\"ExternalClass4B3249C451A84597B07B780BDE845977\"><table id=\"layoutsTable\" style=\"width&#58;100%;\"><tbody><tr style=\"vertical-align&#58;top;\"><td style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-outer\" style=\"width&#58;100%;\"><div class=\"ms-rte-layoutszone-inner\" aria-label=\"Rich text editor\"><h2>Rounding&#58;</h2><p>I dimly recall rounding issues with regards to spreadsheet –v- CI in the past, it would be good to run some tests to see if the results of this calculator are going to cause similar issues in CI.&#160; </p><p style=\"text-decoration&#58;line-through;\">In its current iteration, there's no rounding happening until the very end (per ET charges in the calculator are being calculated by multiplying the 'per person' rate, hence the decimals, even though the rates recorded in plans&#160;are rounded, except for CP 18 rates).&#160; </p><p>Rounding on the Final Total column is now&#160;set at 3 decimal places this is because rounding too early meant the the capped&#160;total per lot was&#160;sometimes out by some cents if individual levy&#160;amounts were rounded before totalling.<br></p><p>I've spoken to Paul Morgan about rounding generally and the issues it has caused, we may take a different approach to it in the plans as part of his review.&#160; It remains to be seen whether Planners have any issues with the&#160;new approach to rounding.<br></p><h2>Excel File&#58;<br></h2><p>The Excel file comes out with 3 tabs, the first tab should be exactly the same as the data file used to generate the consent condition, with rounded values, hence it can be used to generate the conditions and feesheet by the old method.&#160; The 2<sup>nd</sup> tab includes more detail, and the 3<sup>rd</sup> tab combines multiple stages together, if they exist.<br></p><h2>Word Document&#58;</h2><p>To generate the condition text, you can either use the excel file above as usual, or create a Word document directly from the calculator.&#160; The document&#160;contains both the condition and the fee sheet (table only) directly from the calculation.&#160; Again, figures here are rounded, except for CP18, and there could be discrepancies which arise from this.&#160; The fee sheet table is 'close' to the current Word original in layout and style,&#160;but not exactly the same, however if you paste the table underneath the headings in the document generated out of CI, it will take on the same formatting and line up properly.&#160; &#160;Adjustments to the Word template(s) containing the fee sheet may be warranted.<br></p><h2>Save to SP&#58;</h2><p>With this checkbox checked on, a copy of the calculation will be saved to SharePoint every time an Excel file or Word document is generated. &#160;&#160;Calculations saved to SharePoint can be reimported.&#160; Since the current calculator always saves a copy of the data, wondering if keeping this option to turn off saving to SP is a good idea.&#160; It became necessary while testing because saving a copy every time was creating A LOT of copies.&#160; Another alternative could be to generate a unique id for the session that can be recalled so that copies of the same calculation are saved over previous copies.&#160; Keeping all versions in SP would overcome any situation where copying over the top of a previous save was NOT desirable, requires more thought.<br></p><p>&#160;</p><p><br></p></div></div></td></tr></tbody></table><span id=\"layoutsData\" style=\"display&#58;none;\">false,false,1</span></div>",
+               "OData__dlc_DocIdUrl": {
+                   "__metadata": {
+                       "type": "SP.FieldUrlValue"
+                   },
+                   "Description": "NKVJFX2TJXEK-1287875411-22",
+                   "Url": "http://tscps/prac/infrastructure/_layouts/15/DocIdRedir.aspx?ID=NKVJFX2TJXEK-1287875411-22"
+               },
+               "Title0": null,
+               "ID": 22
+           }
+       ]
+   }
+}
