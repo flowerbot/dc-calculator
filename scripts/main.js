@@ -162,7 +162,7 @@ function afterLoad() {
 
                             savedText = parsed.data;
                             console.log("savedText:");
-                            console.log(savedText);
+                            console.log(savedText); 
 
                             //STEP 4
 
