@@ -13,9 +13,9 @@ Version history:
 0.2 adjustments made to handle CP23 'Space' unit and how cap calculations interracted with these
 */
 
-var version = 0.3;
-var versionDate = "22/9/2020";
-var versionDesc = "fixed bug relating to CP28 and the cap";
+var version = 0.4;
+var versionDate = "16/11/2021";
+var versionDesc = "converted to non-sp cloud version on github";
 
 var guideState = "showing";
 var comGuideState = "show";
