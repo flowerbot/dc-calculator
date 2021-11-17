@@ -1002,10 +1002,10 @@ document.oninput = function(ev) {
     				var wholeStage = ev.target.parentNode.closest(".wholestagecontainer");
 
 
-					var flashingButtons = wholeStage.querySelectorAll(".btnAutoFill");
+					var flashingButtons = wholeStage.querySelectorAll(".btnGlow");
 
 					for(i=0; i< flashingButtons.length; i++) {
-					flashingButtons[i].classList.remove(".btnAutoFill");
+					flashingButtons[i].classList.remove("btnGlow");
 					}
 
 
@@ -1439,10 +1439,12 @@ document.oninput = function(ev) {
 
 					console.log("allinputsTotal:" + allinputsTotal);
 
-				var firstInputVal = parseFloat(stageContainer.querySelector(".rateInput").value);
-				console.log(firstInputVal);
+				var firstInputVal = parseFloat(stageContainer.querySelectorAll("input.rateInput")[0].value);
 
-				if(allinputsTotal > 0 && !firstInputVal > 0 && typeof firstInputVal == "number") {
+				//console.log(stageContainer.querySelectorAll("input.rateInput")[0]);  
+				//console.log("firstInputVal:", firstInputVal);
+
+				if(allinputsTotal > 0 && !firstInputVal > 0 && !isNaN(firstInputVal) ) {
 					stageContainer.querySelector(".btnAutoFill").classList.add("btnGlow");
 				} else {
 					stageContainer.querySelector(".btnAutoFill").classList.remove("btnGlow");
