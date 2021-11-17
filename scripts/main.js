@@ -295,6 +295,19 @@ function afterLoad() {
 		}
 		});
 		
+
+		try {
+			var testUrl = "https://tweednswgovau.sharepoint.com/sites/InfrastructurePlanning/_api/web/lists/GetByTitle('Levy%20Rates')/items";
+			fetch(testUrl)
+			.then(async response => {
+				res = await response.json()
+				console.log("res", res);
+			})
+
+
+		} catch (ex) {
+
+		}
 		
 		
 		/*
