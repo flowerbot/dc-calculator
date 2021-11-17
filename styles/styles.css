@@ -422,6 +422,10 @@ td.ms-rteTable-default, th.ms-rteTable-default, .ms-rtetablecells {
 
     }
 
+    .infoImageLarger {
+        width: 100px;
+    }
+
     .infoImage:hover, .infoDiv:hover .infoImage {
 
         -khtml-opacity: 1.0;
